@@ -1,0 +1,14 @@
+[05-Sep-2012 19:42:33 UTC] PHP Notice:  Undefined variable: css_footer_push in /home/licensec/public_html/_include/modules/css.php on line 2
+[05-Sep-2012 19:42:33 UTC] PHP Notice:  Undefined variable: vps_plesk_version in /home/licensec/public_html/_include/modules/header.php on line 233
+[05-Sep-2012 19:42:33 UTC] PHP Notice:  Undefined variable: dedicated_virtuozzo in /home/licensec/public_html/_include/modules/header.php on line 331
+[05-Sep-2012 19:42:33 UTC] UberSmith::getPlanByCode(code=LIN288): not found
+[05-Sep-2012 19:42:33 UTC] PHP Notice:  Trying to get property of non-object in /home/licensec/public_html/_include/modules/header.php on line 430
+[05-Sep-2012 19:42:33 UTC] PHP Notice:  Undefined variable: vps_plesk_version in /home/licensec/public_html/_include/modules/footer.php on line 15
+[05-Sep-2012 19:42:33 UTC] PHP Notice:  Undefined property: stdClass::$status in /home/licensec/public_html/_include/modules/LiveChat/models/Status.php on line 10
+[05-Sep-2012 19:43:09 UTC] PHP Notice:  Undefined variable: css_footer_push in /home/licensec/public_html/_include/modules/css.php on line 2
+[05-Sep-2012 19:43:09 UTC] PHP Notice:  Undefined variable: vps_plesk_version in /home/licensec/public_html/_include/modules/header.php on line 233
+[05-Sep-2012 19:43:09 UTC] PHP Notice:  Undefined variable: dedicated_virtuozzo in /home/licensec/public_html/_include/modules/header.php on line 331
+[05-Sep-2012 19:43:09 UTC] UberSmith::getPlanByCode(code=LIN288): not found
+[05-Sep-2012 19:43:09 UTC] PHP Notice:  Trying to get property of non-object in /home/licensec/public_html/_include/modules/header.php on line 430
+[05-Sep-2012 19:43:09 UTC] PHP Notice:  Undefined variable: vps_plesk_version in /home/licensec/public_html/_include/modules/footer.php on line 15
+[05-Sep-2012 19:43:09 UTC] PHP Notice:  Undefined property: stdClass::$status in /home/licensec/public_html/_include/modules/LiveChat/models/Status.php on line 10

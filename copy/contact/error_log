@@ -1,0 +1,1600 @@
+[26-Mar-2015 22:18:11 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[26-Mar-2015 22:18:11 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[27-Mar-2015 06:02:10 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[27-Mar-2015 06:02:10 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[27-Mar-2015 09:18:40 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[27-Mar-2015 09:18:40 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[27-Mar-2015 09:25:31 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[27-Mar-2015 09:25:31 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[27-Mar-2015 09:38:56 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[27-Mar-2015 09:38:56 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[27-Mar-2015 10:24:43 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[27-Mar-2015 10:24:43 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[27-Mar-2015 10:28:55 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[27-Mar-2015 10:28:55 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[27-Mar-2015 12:53:47 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[27-Mar-2015 12:53:47 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[27-Mar-2015 15:23:38 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[27-Mar-2015 15:23:38 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[27-Mar-2015 16:11:46 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[27-Mar-2015 16:11:46 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[27-Mar-2015 18:25:05 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[27-Mar-2015 18:25:05 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[27-Mar-2015 21:10:22 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[27-Mar-2015 21:10:22 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[27-Mar-2015 22:28:46 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[27-Mar-2015 22:28:46 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[28-Mar-2015 08:37:29 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[28-Mar-2015 08:37:29 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[28-Mar-2015 09:00:39 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[28-Mar-2015 09:00:39 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[28-Mar-2015 10:43:31 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[28-Mar-2015 10:43:31 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[28-Mar-2015 10:44:40 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[28-Mar-2015 10:44:40 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[28-Mar-2015 10:53:15 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[28-Mar-2015 10:53:15 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[28-Mar-2015 11:38:26 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[28-Mar-2015 11:38:26 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[28-Mar-2015 22:07:51 America/New_York] PHP Warning:  simplexml_load_string() [<a href='function.simplexml-load-string'>function.simplexml-load-string</a>]: Entity: line 1051: parser error : Couldn't find end of Start Tag lc_api_remote_cli line 1051 in /home/licensec/public_html/_include/classes/Ubersmith.class.php on line 359
+[28-Mar-2015 22:07:51 America/New_York] PHP Warning:  simplexml_load_string() [<a href='function.simplexml-load-string'>function.simplexml-load-string</a>]:     &lt;lc_api_remote_cli in /home/licensec/public_html/_include/classes/Ubersmith.class.php on line 359
+[28-Mar-2015 22:07:51 America/New_York] PHP Warning:  simplexml_load_string() [<a href='function.simplexml-load-string'>function.simplexml-load-string</a>]:                       ^ in /home/licensec/public_html/_include/classes/Ubersmith.class.php on line 359
+[28-Mar-2015 22:07:51 America/New_York] PHP Warning:  simplexml_load_string() [<a href='function.simplexml-load-string'>function.simplexml-load-string</a>]: Entity: line 1051: parser error : Premature end of data in tag plan_info line 873 in /home/licensec/public_html/_include/classes/Ubersmith.class.php on line 359
+[28-Mar-2015 22:07:51 America/New_York] PHP Warning:  simplexml_load_string() [<a href='function.simplexml-load-string'>function.simplexml-load-string</a>]:     &lt;lc_api_remote_cli in /home/licensec/public_html/_include/classes/Ubersmith.class.php on line 359
+[28-Mar-2015 22:07:51 America/New_York] PHP Warning:  simplexml_load_string() [<a href='function.simplexml-load-string'>function.simplexml-load-string</a>]:                       ^ in /home/licensec/public_html/_include/classes/Ubersmith.class.php on line 359
+[28-Mar-2015 22:07:51 America/New_York] PHP Warning:  simplexml_load_string() [<a href='function.simplexml-load-string'>function.simplexml-load-string</a>]: Entity: line 1051: parser error : Premature end of data in tag plans line 2 in /home/licensec/public_html/_include/classes/Ubersmith.class.php on line 359
+[28-Mar-2015 22:07:51 America/New_York] PHP Warning:  simplexml_load_string() [<a href='function.simplexml-load-string'>function.simplexml-load-string</a>]:     &lt;lc_api_remote_cli in /home/licensec/public_html/_include/classes/Ubersmith.class.php on line 359
+[28-Mar-2015 22:07:51 America/New_York] PHP Warning:  simplexml_load_string() [<a href='function.simplexml-load-string'>function.simplexml-load-string</a>]:                       ^ in /home/licensec/public_html/_include/classes/Ubersmith.class.php on line 359
+[28-Mar-2015 22:07:51 America/New_York] Error calling method plan_info: <?xml version="1.0" encoding="UTF-8"?>
+<plans>
+  <plan_info plan_id="26">
+    <plan_id>26</plan_id>
+    <class_id>2</class_id>
+    <title>cPanel/WHM VPS License</title>
+    <code>LIN0</code>
+    <category>Licenses</category>
+    <price>164.00</price>
+    <setup>0.00</setup>
+    <period>12</period>
+    <api_include>1</api_include>
+    <service_host><![CDATA[]]></service_host>
+    <bill_type>0</bill_type>
+    <auto_bill>1</auto_bill>
+    <active>1</active>
+    <welcomeadd><![CDATA[LicenseCube AVS <noreply@licensecube.com>]]></welcomeadd>
+    <welcomesub>LicenseCube Activation - cPanel/WHM VPS License!</welcomesub>
+    <welcomebody>##first_name##,
+
+Thank you for choosing LicenseCube for your licensing purchase. 
+
+THANK YOU: 
+
+At LicenseCube, we strive to provide the best service possible. In doing so, we want to hear more about your experiences, and feedback. So if you have anything you’d like to share with the LicenseCube team, please email us at feedback@licensecube.com 
+
+LICENSE ACTIVATION:
+
+Your cPanel/WHM VPS License has now been activated. Below, you will find some more information that is important to your purchase.  If any of the information listed below is incorrect, please contact us at 1-855-465-4236 so we can get these issues resolved. 
+
+cPanel/WHM License Status: ##lc_license_status##
+cPanel/WHM License ID: ##lc_license_id##
+cPanel/WHM IP Address: ##lc_license_ip##
+cPanel/WHM Server Type: VPS Server
+
+LICENSE UPDATE:
+
+Have you accidentally input the wrong information during the order process? No problem! Updating your license with LicenseCube is extremely straightforward. Simply follow the below mentioned steps and you will be completed in just minutes:
+
+1. Go to http://www.licensecube.com/support/kb
+2. Click on the “Update License” Tab
+3. Input the requested information and click “Submit Form” 
+4. Your license has been changed, and an email notification has been sent!
+
+INSTALLATION:
+
+The basic installation process of a cPanel/WHM license is relatively straightforward. Please follow the outlined steps below. If you do get stuck, please give our support department a call for further assistance at 1-855-465-4236.
+
+1. Login to your server via command line (as a root user)
+2. Please ensure that no other control panel was installed on this server before. 
+3. Copy and Paste the below commands into the window:
+
+        cd /home
+        wget http://layer1.cpanel.net/latest
+        sh latest
+
+4. Please note, that the installation process can take up to one and a half (1.5) hours to completely install cPanel/WHM. This is based upon the server’s hardware, and connection speed. PLEASE DO NOT CLOSE THE COMMAND LINE WINDOW.  
+
+5. Upon completion of the installation process, please go to http://##lc_cpanel_license_ip##/whm and complete the steps mentioned in the window. 
+
+If you have any issues with this installation, please don’t hesitate to contact a member of the LicenseCube support team for further assistance. 
+
+LICENSE RE-SYNC / VERIFICATION:
+
+In some cases, cPanel doesn’t always automatically sync the installation server with the license, so sometimes it is necessary to manually re-sync the server. Please follow the outlined steps below to do this:
+
+1. Login to your server via command line (as a root user)
+2. Copy and Paste the below commands into the window:
+
+         /usr/local/cpanel/cpkeyclt
+
+3. That’s it. Your license should now be ready to use. 
+
+On the super rare occurrence, if doing the above doesn’t solve the issue. You may go to the following website to confirm that your IP address was correctly licensed; http://verify.cpanel.net
+
+Once again, thanks for choosing LicenseCube as your licensing provider. We look forward to working with you!
+
+Best Regards,
+
+The LicenseCube Team
+P: 1-855-465-4236
+Follow us on Twitter! www.twitter.com/licensecube</welcomebody>
+    <offerwelcome>0</offerwelcome>
+    <quantity>1.00</quantity>
+    <suspend_after>2</suspend_after>
+    <cancel_after>0</cancel_after>
+    <suspend_bool>0</suspend_bool>
+    <cancel_bool>1</cancel_bool>
+    <qblistid><![CDATA[]]></qblistid>
+    <qbaccount><![CDATA[]]></qbaccount>
+    <one_time_price>0.00</one_time_price>
+    <one_time_setup>0.00</one_time_setup>
+    <monthly_price>0.00</monthly_price>
+    <monthly_setup>0.00</monthly_setup>
+    <quarterly_price>0.00</quarterly_price>
+    <quarterly_setup>0.00</quarterly_setup>
+    <semi_price>0.00</semi_price>
+    <semi_setup>0.00</semi_setup>
+    <annual_price>164.00</annual_price>
+    <annual_setup>0.00</annual_setup>
+    <option_groups/>
+    <upgrade_groups>
+      <upgrade_group spug_id="0">
+        <spug_id>0</spug_id>
+        <spug_plan_id>26</spug_plan_id>
+        <spug_status>1</spug_status>
+        <spug_name>Ungrouped</spug_name>
+      </upgrade_group>
+    </upgrade_groups>
+    <active_licensing>none</active_licensing>
+    <lc_license_dedicated>vps</lc_license_dedicated>
+    <lc_product_type>control_panel</lc_product_type>
+    <lc_url_basename>cpanel_vps</lc_url_basename>
+    <lc_fantastico_license_id><![CDATA[]]></lc_fantastico_license_id>
+    <lc_fantastico_license_type>none</lc_fantastico_license_type>
+    <lc_fantastico_license_ip><![CDATA[]]></lc_fantastico_license_ip>
+    <lc_fantastico_license_status><![CDATA[]]></lc_fantastico_license_status>
+    <lc_blesta_license_domain><![CDATA[]]></lc_blesta_license_domain>
+    <lc_blesta_license_prorate>0</lc_blesta_license_prorate>
+    <lc_blesta_license_term>owned</lc_blesta_license_term>
+    <lc_blesta_license_id><![CDATA[]]></lc_blesta_license_id>
+    <lc_cpanel_license_promoinfo><![CDATA[]]></lc_cpanel_license_promoinfo>
+    <lc_requires_domain>0</lc_requires_domain>
+    <lc_cpanel_license_id><![CDATA[]]></lc_cpanel_license_id>
+    <lc_cpanel_license_status><![CDATA[]]></lc_cpanel_license_status>
+    <lc_cpanel_license_reason><![CDATA[]]></lc_cpanel_license_reason>
+    <lc_cpanel_license_ip><![CDATA[]]></lc_cpanel_license_ip>
+    <lc_cpanel_license_group_id><![CDATA[]]></lc_cpanel_license_group_id>
+    <lc_cpanel_license_package_id><![CDATA[]]></lc_cpanel_license_package_id>
+    <lc_cpanel_license_yearly><![CDATA[]]></lc_cpanel_license_yearly>
+    <lc_cpanel_enkompass_users><![CDATA[]]></lc_cpanel_enkompass_users>
+    <lc_softaculous_license_ip><![CDATA[]]></lc_softaculous_license_ip>
+    <lc_softaculous_license_time><![CDATA[]]></lc_softaculous_license_time>
+    <lc_softaculous_license_servertype><![CDATA[]]></lc_softaculous_license_servertype>
+    <lc_softaculous_license_email><![CDATA[]]></lc_softaculous_license_email>
+    <lc_softaculous_license_autorenew><![CDATA[]]></lc_softaculous_license_autorenew>
+    <lc_softaculous_license_id><![CDATA[]]></lc_softaculous_license_id>
+    <lc_softaculous_license_key><![CDATA[]]></lc_softaculous_license_key>
+    <lc_softaculous_license_start><![CDATA[]]></lc_softaculous_license_start>
+    <lc_softaculous_license_actid><![CDATA[]]></lc_softaculous_license_actid>
+    <lc_softaculous_license_status><![CDATA[]]></lc_softaculous_license_status>
+    <lc_rvglobal_license_status><![CDATA[]]></lc_rvglobal_license_status>
+    <lc_rvglobal_license_ip><![CDATA[]]></lc_rvglobal_license_ip>
+    <lc_rvglobal_license_type><![CDATA[]]></lc_rvglobal_license_type>
+    <lc_whmsonic_license_period><![CDATA[]]></lc_whmsonic_license_period>
+    <lc_whmsonic_license_email><![CDATA[]]></lc_whmsonic_license_email>
+    <lc_whmsonic_license_ip><![CDATA[]]></lc_whmsonic_license_ip>
+    <lc_whmsonic_license_order_id><![CDATA[]]></lc_whmsonic_license_order_id>
+    <lc_whmsonic_license_name><![CDATA[]]></lc_whmsonic_license_name>
+    <lc_whmsonic_license_status><![CDATA[]]></lc_whmsonic_license_status>
+    <lc_directadmin_license_name><![CDATA[]]></lc_directadmin_license_name>
+    <lc_directadmin_license_pid><![CDATA[]]></lc_directadmin_license_pid>
+    <lc_directadmin_license_os><![CDATA[]]></lc_directadmin_license_os>
+    <lc_directadmin_license_ip><![CDATA[]]></lc_directadmin_license_ip>
+    <lc_directadmin_license_password><![CDATA[]]></lc_directadmin_license_password>
+    <lc_directadmin_license_domain><![CDATA[]]></lc_directadmin_license_domain>
+    <lc_directadmin_license_username><![CDATA[]]></lc_directadmin_license_username>
+    <lc_directadmin_license_id><![CDATA[]]></lc_directadmin_license_id>
+    <lc_directadmin_license_status><![CDATA[]]></lc_directadmin_license_status>
+    <lc_blesta_license_status><![CDATA[]]></lc_blesta_license_status>
+    <lc_directadmin_license_email><![CDATA[]]></lc_directadmin_license_email>
+    <lc_directadmin_license_payment><![CDATA[]]></lc_directadmin_license_payment>
+    <lc_requires_ip>1</lc_requires_ip>
+    <lc_parallels_license_status><![CDATA[]]></lc_parallels_license_status>
+    <lc_parallels_license_keytype><![CDATA[]]></lc_parallels_license_keytype>
+    <lc_parallels_license_feature><![CDATA[]]></lc_parallels_license_feature>
+    <lc_parallels_license_id><![CDATA[]]></lc_parallels_license_id>
+    <lc_parallels_license_ip><![CDATA[]]></lc_parallels_license_ip>
+    <lc_whmxtra_license_id><![CDATA[]]></lc_whmxtra_license_id>
+    <lc_parallels_license_email_status><![CDATA[]]></lc_parallels_license_email_status>
+    <lc_whmxtra_license_status><![CDATA[]]></lc_whmxtra_license_status>
+    <lc_requires_license_id>0</lc_requires_license_id>
+    <lc_license_id><![CDATA[]]></lc_license_id>
+    <lc_license_change_action><![CDATA[]]></lc_license_change_action>
+    <lc_license_status><![CDATA[]]></lc_license_status>
+    <lc_license_user_count><![CDATA[]]></lc_license_user_count>
+    <lc_clientexec_license_domain><![CDATA[]]></lc_clientexec_license_domain>
+    <lc_refund_issued><![CDATA[]]></lc_refund_issued>
+    <lc_license_mtime><![CDATA[]]></lc_license_mtime>
+    <lc_license_applied_time><![CDATA[]]></lc_license_applied_time>
+    <lc_license_update_email_time><![CDATA[]]></lc_license_update_email_time>
+    <lc_paypal_accepted>yes</lc_paypal_accepted>
+    <lc_credit_cards_accepted>yes</lc_credit_cards_accepted>
+    <lc_provider_refused_license>0</lc_provider_refused_license>
+    <lc_license_ip><![CDATA[]]></lc_license_ip>
+    <lc_requires_cpanel_ip_check>no</lc_requires_cpanel_ip_check>
+    <lc_parallels_license_domain><![CDATA[]]></lc_parallels_license_domain>
+    <lc_whmcs_license_type><![CDATA[]]></lc_whmcs_license_type>
+    <lc_installatron_license_id><![CDATA[]]></lc_installatron_license_id>
+    <lc_installatron_license_ip><![CDATA[]]></lc_installatron_license_ip>
+    <lc_installatron_license_status><![CDATA[]]></lc_installatron_license_status>
+    <lc_installatron_license_type><![CDATA[]]></lc_installatron_license_type>
+    <lc_download_links><![CDATA[]]></lc_download_links>
+    <lc_api_remote_client_id><![CDATA[]]></lc_api_remote_client_id>
+    <lc_whmcs_license_password><![CDATA[]]></lc_whmcs_license_password>
+    <lc_whmcs_license_id><![CDATA[]]></lc_whmcs_license_id>
+    <lc_license_comment_message><![CDATA[]]></lc_license_comment_message>
+    <lc_license_updates_per_hour>4</lc_license_updates_per_hour>
+    <lc_license_update_status><![CDATA[]]></lc_license_update_status>
+    <lc_clientexec_license_status><![CDATA[]]></lc_clientexec_license_status>
+    <lc_clientexec_license_customerslimit><![CDATA[]]></lc_clientexec_license_customerslimit>
+    <lc_license_update_in_progress><![CDATA[]]></lc_license_update_in_progress>
+    <lc_whmcs_license_status><![CDATA[]]></lc_whmcs_license_status>
+    <lc_api_remote_pack_id><![CDATA[]]></lc_api_remote_pack_id>
+    <lc_solusvm_license_id><![CDATA[]]></lc_solusvm_license_id>
+    <lc_solusvm_license_status><![CDATA[]]></lc_solusvm_license_status>
+    <lc_solusvm_license_slavecount><![CDATA[]]></lc_solusvm_license_slavecount>
+    <lc_solusvm_license_minislavecount><![CDATA[]]></lc_solusvm_license_minislavecount>
+    <lc_solusvm_license_microslavecount><![CDATA[]]></lc_solusvm_license_microslavecount>
+    <lc_interworx_license_id><![CDATA[]]></lc_interworx_license_id>
+    <lc_interworx_license_status><![CDATA[]]></lc_interworx_license_status>
+    <lc_interworx_license_type><![CDATA[]]></lc_interworx_license_type>
+    <lc_ispmanager_license_type><![CDATA[]]></lc_ispmanager_license_type>
+    <lc_ispmanager_license_period><![CDATA[]]></lc_ispmanager_license_period>
+    <lc_ispmanager_license_id><![CDATA[]]></lc_ispmanager_license_id>
+    <lc_ispmanager_license_status><![CDATA[]]></lc_ispmanager_license_status>
+    <lc_ispmanager_license_licname><![CDATA[]]></lc_ispmanager_license_licname>
+    <lc_ispmanager_license_ip><![CDATA[]]></lc_ispmanager_license_ip>
+    <lc_interworx_license_ip><![CDATA[]]></lc_interworx_license_ip>
+    <lc_parallels_language_pack><![CDATA[]]></lc_parallels_language_pack>
+    <lc_directadmin_license_os_old><![CDATA[]]></lc_directadmin_license_os_old>
+    <lc_customerincentive_discount>25</lc_customerincentive_discount>
+    <lc_customerincentive_dailylimit>0</lc_customerincentive_dailylimit>
+    <lc_customerincentive_img_es>https://my.licensecube.com/license-process/_include/gui/dialog.png</lc_customerincentive_img_es>
+    <lc_customerincentive_img_en>https://my.licensecube.com/license-process/_include/gui/dialog.png</lc_customerincentive_img_en>
+    <lc_whmautopilot_license_status><![CDATA[]]></lc_whmautopilot_license_status>
+    <lc_whmautopilot_license_id><![CDATA[]]></lc_whmautopilot_license_id>
+    <lc_whmautopilot_license_client_id><![CDATA[]]></lc_whmautopilot_license_client_id>
+    <lc_whmautopilot_license_product_id><![CDATA[]]></lc_whmautopilot_license_product_id>
+    <lc_whmautopilot_license_category_id><![CDATA[]]></lc_whmautopilot_license_category_id>
+    <lc_whmautopilot_license_profile_id><![CDATA[]]></lc_whmautopilot_license_profile_id>
+    <lc_customerincentive_discount_type>0</lc_customerincentive_discount_type>
+    <lc_cpaneldirect_license_status><![CDATA[]]></lc_cpaneldirect_license_status>
+    <lc_cpaneldirect_license_id><![CDATA[]]></lc_cpaneldirect_license_id>
+    <lc_cpaneldirect_lincese_type>3</lc_cpaneldirect_lincese_type>
+    <lc_cpaneldirect_license_ip><![CDATA[]]></lc_cpaneldirect_license_ip>
+    <lc_cpaneldirect_license_invoice_status><![CDATA[]]></lc_cpaneldirect_license_invoice_status>
+    <lc_disable_suspend>0</lc_disable_suspend>
+    <lc_alertpay_accepted>yes</lc_alertpay_accepted>
+    <lc_options_editable>0</lc_options_editable>
+    <lc_parallels_license_additional_keys><![CDATA[]]></lc_parallels_license_additional_keys>
+    <lc_parallels_license_additional_id><![CDATA[]]></lc_parallels_license_additional_id>
+    <lc_parallels_advertising_fotolia><![CDATA[]]></lc_parallels_advertising_fotolia>
+    <lc_parallels_advertising_newsfeed><![CDATA[]]></lc_parallels_advertising_newsfeed>
+    <lc_parallels_advertising_plesk_swsoft_services><![CDATA[]]></lc_parallels_advertising_plesk_swsoft_services>
+    <lc_parallels_advertising_virtuozzo_promo><![CDATA[]]></lc_parallels_advertising_virtuozzo_promo>
+    <lc_software_name><![CDATA[]]></lc_software_name>
+    <lc_latest_software_version><![CDATA[]]></lc_latest_software_version>
+    <lc_product_rating>4.0</lc_product_rating>
+    <lc_product_popularity>80%</lc_product_popularity>
+    <lc_autoinstaller>0</lc_autoinstaller>
+    <lc_license_dependencies>LIN9, LIN17, LIN10, LIN16, LIN44, LIN45, LIN55, LIN83, LIN82, LIN26, LIN20, LIN28, LIN23, LIN24, LIN21, LIN22, LIN8, LIN84, LIN25, LIN27, LIN85, LIN86, LIN87, LIN88, LIN89, LIN92, LIN90, LIN91</lc_license_dependencies>
+    <lc_twilio_ring_validator_call_id><![CDATA[]]></lc_twilio_ring_validator_call_id>
+    <lc_twilio_ring_validator_call_status><![CDATA[]]></lc_twilio_ring_validator_call_status>
+    <lc_twilio_ring_validator_call_attempt><![CDATA[]]></lc_twilio_ring_validator_call_attempt>
+    <lc_twilio_ring_validator_last_call><![CDATA[]]></lc_twilio_ring_validator_last_call>
+    <lc_twilio_ring_validator_call_closed>0</lc_twilio_ring_validator_call_closed>
+    <lc_review_email_last_send><![CDATA[]]></lc_review_email_last_send>
+    <lc_review_email_sending_total><![CDATA[]]></lc_review_email_sending_total>
+    <lc_twilio_sms_antifraud_suspension><![CDATA[]]></lc_twilio_sms_antifraud_suspension>
+    <lc_sitelock_license_id><![CDATA[]]></lc_sitelock_license_id>
+    <lc_sitelock_account_password><![CDATA[]]></lc_sitelock_account_password>
+    <lc_sitelock_site_information_id><![CDATA[]]></lc_sitelock_site_information_id>
+    <lc_sitelock_subscription_type><![CDATA[]]></lc_sitelock_subscription_type>
+    <lc_hostbill_license_id><![CDATA[]]></lc_hostbill_license_id>
+    <lc_hostbill_license_status><![CDATA[]]></lc_hostbill_license_status>
+    <lc_hostbill_license_ip><![CDATA[]]></lc_hostbill_license_ip>
+    <lc_hostbill_license_domain><![CDATA[]]></lc_hostbill_license_domain>
+    <lc_hostbill_license_activation><![CDATA[]]></lc_hostbill_license_activation>
+    <lc_parallels_license_hwid><![CDATA[]]></lc_parallels_license_hwid>
+    <lc_litespeed_license_id><![CDATA[]]></lc_litespeed_license_id>
+    <lc_litespeed_license_status><![CDATA[]]></lc_litespeed_license_status>
+    <lc_litespeed_license_serial><![CDATA[]]></lc_litespeed_license_serial>
+    <lc_trendy_license_id><![CDATA[]]></lc_trendy_license_id>
+    <lc_trendy_license_status><![CDATA[]]></lc_trendy_license_status>
+    <lc_trendy_license_product><![CDATA[]]></lc_trendy_license_product>
+    <lc_trendy_license_ip><![CDATA[]]></lc_trendy_license_ip>
+    <lc_litespeed_license_order_cpu><![CDATA[]]></lc_litespeed_license_order_cpu>
+    <lc_ubersmith_license_id><![CDATA[]]></lc_ubersmith_license_id>
+    <lc_ubersmith_license_status><![CDATA[]]></lc_ubersmith_license_status>
+    <lc_ubersmith_license_domain><![CDATA[]]></lc_ubersmith_license_domain>
+    <lc_ubersmith_license_username><![CDATA[]]></lc_ubersmith_license_username>
+    <lc_ubersmith_license_password><![CDATA[]]></lc_ubersmith_license_password>
+    <lc_zopim_license_id><![CDATA[]]></lc_zopim_license_id>
+    <lc_zopim_license_status><![CDATA[]]></lc_zopim_license_status>
+    <lc_zopim_account_key><![CDATA[]]></lc_zopim_account_key>
+    <lc_zopim_account_password><![CDATA[]]></lc_zopim_account_password>
+    <lc_zopim_account_subscription_plan><![CDATA[]]></lc_zopim_account_subscription_plan>
+    <lc_sitelock_license_status><![CDATA[]]></lc_sitelock_license_status>
+    <lc_sitelock_activation_attempt><![CDATA[]]></lc_sitelock_activation_attempt>
+    <lc_sitelock_license_domain>siteLock Domain</lc_sitelock_license_domain>
+    <lc_lb_rating_source>cpanel</lc_lb_rating_source>
+    <lc_cpanel_license_domain><![CDATA[]]></lc_cpanel_license_domain>
+    <lc_cpanel_license_ordertype><![CDATA[]]></lc_cpanel_license_ordertype>
+    <lc_kernelcare_license_status><![CDATA[]]></lc_kernelcare_license_status>
+    <lc_kernelcare_license_ip><![CDATA[]]></lc_kernelcare_license_ip>
+    <notes/>
+    <taxes/>
+  </plan_info>
+  <plan_info plan_id="31">
+    <plan_id>31</plan_id>
+    <class_id>2</class_id>
+    <title>DirectAdmin VPS License</title>
+    <code>LIN5</code>
+    <category>Licenses</category>
+    <price>15.95</price>
+    <setup>0.00</setup>
+    <period>1</period>
+    <api_include>1</api_include>
+    <service_host><![CDATA[]]></service_host>
+    <bill_type>0</bill_type>
+    <auto_bill>1</auto_bill>
+    <active>1</active>
+    <welcomeadd><![CDATA[LicenseCube AVS <noreply@licensecube.com>]]></welcomeadd>
+    <welcomesub>LicenseCube Activation - DirectAdmin VPS License!</welcomesub>
+    <welcomebody>##first_name##,
+
+Thank you for choosing LicenseCube for your licensing purchase. 
+
+THANK YOU: 
+
+At LicenseCube, we strive to provide the best service possible. In doing so, we want to hear more about your experiences, and feedback. If you have anything you’d like to share with the LicenseCube team, please email us at feedback@licensecube.com 
+
+LICENSE ACTIVATION:
+
+Your DirectAdmin ##lc_license_dedicated## License has now been activated. Below, you will find more information that is important to your purchase.  If any of the information listed below is incorrect, please contact us at 1-855-465-4236 so we can get these issues resolved. 
+
+        DirectAdmin License Status: ##lc_license_status##
+        DirectAdmin License ID: ##lc_directadmin_license_id##
+        DirectAdmin IP Address: ##lc_directadmin_license_ip##
+        DirectAdmin Server Type: ##lc_license_dedicated## Server
+
+LICENSE UPDATE:
+
+Have you accidentally input the wrong information during the order process? No problems! Updating your license with LicenseCube is extremely straightforward. Simply follow the below mentioned steps and you will be completed in just minutes:
+
+        1. Go to http://www.licensecube.com/support/kb
+        2. Click on the “Update License” Tab
+        3. Input the requested information and click “Submit Form” 
+        4. Your license has been changed, and an email notification has been sent!
+
+INSTALLATION:
+
+The basic installation process of a DirectAdmin license is relatively straightforward. Please follow the outlined steps below. If you do get stuck, please give our support department a call for further assistance at 1-855-465-4236
+
+         1. Login to your server via command line (as a root user)
+         2. Please ensure that no other control panel was installed on this server before. 
+         3. Edit the file called “/etc/ssh/sshd_config” and add the following code to it:
+
+               “AllowUsers username”
+
+         4. Upon completion of the previous step, copy and Paste the following command into the same window: 
+
+               wget http://www.directadmin.com/setup.sh
+               chmod 755 setup.sh
+               ./setup.sh
+
+         5. At this point in time you will be prompted for the below mentioned information: 
+
+              DirectAdmin Client ID: 24580  (Note: This is not your LicenseCube Client ID)
+              DirectAdmin License ID: ##lc_directadmin_license_id##
+              DirectAdmin Hostname: server.yourdomain.com (preferred format)
+
+         6. Upon entering in all the above information, the installation process will start. Please wait for the installation process to complete. PLEASE DO NOT CLOSE THE COMMAND LINE WINDOW. 
+
+         7. That’s it; the installation process has been completed! You may access DirectAdmin by going to: http://##lc_directadmin_license_ip##:2222
+
+If you have any issues with this installation, please don’t hesitate to get a hold of a member of the LicenseCube support team for further assistance. 
+
+Once again, thanks for choosing LicenseCube as your licensing provider. We look forward to working with you!
+
+Best Regards,
+
+The LicenseCube Team
+P: 1-855-465-4236
+Follow us on Twitter! www.twitter.com/licensecube</welcomebody>
+    <offerwelcome>0</offerwelcome>
+    <quantity>1.00</quantity>
+    <suspend_after>2</suspend_after>
+    <cancel_after>7</cancel_after>
+    <suspend_bool>1</suspend_bool>
+    <cancel_bool>1</cancel_bool>
+    <qblistid><![CDATA[]]></qblistid>
+    <qbaccount><![CDATA[]]></qbaccount>
+    <one_time_price>0.00</one_time_price>
+    <one_time_setup>0.00</one_time_setup>
+    <monthly_price>15.95</monthly_price>
+    <monthly_setup>0.00</monthly_setup>
+    <quarterly_price>0.00</quarterly_price>
+    <quarterly_setup>0.00</quarterly_setup>
+    <semi_price>0.00</semi_price>
+    <semi_setup>0.00</semi_setup>
+    <annual_price>0.00</annual_price>
+    <annual_setup>0.00</annual_setup>
+    <option_groups/>
+    <upgrade_groups>
+      <upgrade_group spug_id="0">
+        <spug_id>0</spug_id>
+        <spug_plan_id>31</spug_plan_id>
+        <spug_status>1</spug_status>
+        <spug_name>Ungrouped</spug_name>
+      </upgrade_group>
+    </upgrade_groups>
+    <active_licensing><![CDATA[]]></active_licensing>
+    <lc_license_dedicated>vps</lc_license_dedicated>
+    <lc_product_type>control_panel</lc_product_type>
+    <lc_url_basename>directadmin_vps</lc_url_basename>
+    <lc_fantastico_license_id><![CDATA[]]></lc_fantastico_license_id>
+    <lc_fantastico_license_type>none</lc_fantastico_license_type>
+    <lc_fantastico_license_ip><![CDATA[]]></lc_fantastico_license_ip>
+    <lc_fantastico_license_status><![CDATA[]]></lc_fantastico_license_status>
+    <lc_blesta_license_domain><![CDATA[]]></lc_blesta_license_domain>
+    <lc_blesta_license_prorate>0</lc_blesta_license_prorate>
+    <lc_blesta_license_term>monthly</lc_blesta_license_term>
+    <lc_blesta_license_id><![CDATA[]]></lc_blesta_license_id>
+    <lc_cpanel_license_promoinfo><![CDATA[]]></lc_cpanel_license_promoinfo>
+    <lc_requires_domain>0</lc_requires_domain>
+    <lc_cpanel_license_id><![CDATA[]]></lc_cpanel_license_id>
+    <lc_cpanel_license_status><![CDATA[]]></lc_cpanel_license_status>
+    <lc_cpanel_license_reason><![CDATA[]]></lc_cpanel_license_reason>
+    <lc_cpanel_license_ip><![CDATA[]]></lc_cpanel_license_ip>
+    <lc_cpanel_license_group_id><![CDATA[]]></lc_cpanel_license_group_id>
+    <lc_cpanel_license_package_id><![CDATA[]]></lc_cpanel_license_package_id>
+    <lc_cpanel_license_yearly><![CDATA[]]></lc_cpanel_license_yearly>
+    <lc_cpanel_enkompass_users><![CDATA[]]></lc_cpanel_enkompass_users>
+    <lc_softaculous_license_ip><![CDATA[]]></lc_softaculous_license_ip>
+    <lc_softaculous_license_time><![CDATA[]]></lc_softaculous_license_time>
+    <lc_softaculous_license_servertype><![CDATA[]]></lc_softaculous_license_servertype>
+    <lc_softaculous_license_email><![CDATA[]]></lc_softaculous_license_email>
+    <lc_softaculous_license_autorenew><![CDATA[]]></lc_softaculous_license_autorenew>
+    <lc_softaculous_license_id><![CDATA[]]></lc_softaculous_license_id>
+    <lc_softaculous_license_key><![CDATA[]]></lc_softaculous_license_key>
+    <lc_softaculous_license_start><![CDATA[]]></lc_softaculous_license_start>
+    <lc_softaculous_license_actid><![CDATA[]]></lc_softaculous_license_actid>
+    <lc_softaculous_license_status><![CDATA[]]></lc_softaculous_license_status>
+    <lc_rvglobal_license_status><![CDATA[]]></lc_rvglobal_license_status>
+    <lc_rvglobal_license_ip><![CDATA[]]></lc_rvglobal_license_ip>
+    <lc_rvglobal_license_type><![CDATA[]]></lc_rvglobal_license_type>
+    <lc_whmsonic_license_period><![CDATA[]]></lc_whmsonic_license_period>
+    <lc_whmsonic_license_email><![CDATA[]]></lc_whmsonic_license_email>
+    <lc_whmsonic_license_ip><![CDATA[]]></lc_whmsonic_license_ip>
+    <lc_whmsonic_license_order_id><![CDATA[]]></lc_whmsonic_license_order_id>
+    <lc_whmsonic_license_name><![CDATA[]]></lc_whmsonic_license_name>
+    <lc_whmsonic_license_status><![CDATA[]]></lc_whmsonic_license_status>
+    <lc_directadmin_license_name><![CDATA[]]></lc_directadmin_license_name>
+    <lc_directadmin_license_pid>2712</lc_directadmin_license_pid>
+    <lc_directadmin_license_os><![CDATA[]]></lc_directadmin_license_os>
+    <lc_directadmin_license_ip><![CDATA[]]></lc_directadmin_license_ip>
+    <lc_directadmin_license_password><![CDATA[]]></lc_directadmin_license_password>
+    <lc_directadmin_license_domain><![CDATA[]]></lc_directadmin_license_domain>
+    <lc_directadmin_license_username><![CDATA[]]></lc_directadmin_license_username>
+    <lc_directadmin_license_id><![CDATA[]]></lc_directadmin_license_id>
+    <lc_directadmin_license_status><![CDATA[]]></lc_directadmin_license_status>
+    <lc_blesta_license_status><![CDATA[]]></lc_blesta_license_status>
+    <lc_directadmin_license_email><![CDATA[]]></lc_directadmin_license_email>
+    <lc_directadmin_license_payment><![CDATA[]]></lc_directadmin_license_payment>
+    <lc_requires_ip>1</lc_requires_ip>
+    <lc_parallels_license_status><![CDATA[]]></lc_parallels_license_status>
+    <lc_parallels_license_keytype><![CDATA[]]></lc_parallels_license_keytype>
+    <lc_parallels_license_feature><![CDATA[]]></lc_parallels_license_feature>
+    <lc_parallels_license_id><![CDATA[]]></lc_parallels_license_id>
+    <lc_parallels_license_ip><![CDATA[]]></lc_parallels_license_ip>
+    <lc_whmxtra_license_id><![CDATA[]]></lc_whmxtra_license_id>
+    <lc_parallels_license_email_status><![CDATA[]]></lc_parallels_license_email_status>
+    <lc_whmxtra_license_status><![CDATA[]]></lc_whmxtra_license_status>
+    <lc_requires_license_id>1</lc_requires_license_id>
+    <lc_license_id><![CDATA[]]></lc_license_id>
+    <lc_license_change_action><![CDATA[]]></lc_license_change_action>
+    <lc_license_status><![CDATA[]]></lc_license_status>
+    <lc_license_user_count><![CDATA[]]></lc_license_user_count>
+    <lc_clientexec_license_domain><![CDATA[]]></lc_clientexec_license_domain>
+    <lc_refund_issued><![CDATA[]]></lc_refund_issued>
+    <lc_license_mtime><![CDATA[]]></lc_license_mtime>
+    <lc_license_applied_time><![CDATA[]]></lc_license_applied_time>
+    <lc_license_update_email_time><![CDATA[]]></lc_license_update_email_time>
+    <lc_paypal_accepted>yes</lc_paypal_accepted>
+    <lc_credit_cards_accepted>yes</lc_credit_cards_accepted>
+    <lc_provider_refused_license>0</lc_provider_refused_license>
+    <lc_license_ip><![CDATA[]]></lc_license_ip>
+    <lc_requires_cpanel_ip_check>no</lc_requires_cpanel_ip_check>
+    <lc_parallels_license_domain><![CDATA[]]></lc_parallels_license_domain>
+    <lc_whmcs_license_type><![CDATA[]]></lc_whmcs_license_type>
+    <lc_installatron_license_id><![CDATA[]]></lc_installatron_license_id>
+    <lc_installatron_license_ip><![CDATA[]]></lc_installatron_license_ip>
+    <lc_installatron_license_status><![CDATA[]]></lc_installatron_license_status>
+    <lc_installatron_license_type><![CDATA[]]></lc_installatron_license_type>
+    <lc_download_links><![CDATA[]]></lc_download_links>
+    <lc_api_remote_client_id><![CDATA[]]></lc_api_remote_client_id>
+    <lc_whmcs_license_password><![CDATA[]]></lc_whmcs_license_password>
+    <lc_whmcs_license_id><![CDATA[]]></lc_whmcs_license_id>
+    <lc_license_comment_message><![CDATA[]]></lc_license_comment_message>
+    <lc_license_updates_per_hour>4</lc_license_updates_per_hour>
+    <lc_license_update_status><![CDATA[]]></lc_license_update_status>
+    <lc_clientexec_license_status><![CDATA[]]></lc_clientexec_license_status>
+    <lc_clientexec_license_customerslimit><![CDATA[]]></lc_clientexec_license_customerslimit>
+    <lc_license_update_in_progress><![CDATA[]]></lc_license_update_in_progress>
+    <lc_whmcs_license_status><![CDATA[]]></lc_whmcs_license_status>
+    <lc_api_remote_pack_id><![CDATA[]]></lc_api_remote_pack_id>
+    <lc_solusvm_license_id><![CDATA[]]></lc_solusvm_license_id>
+    <lc_solusvm_license_status><![CDATA[]]></lc_solusvm_license_status>
+    <lc_solusvm_license_slavecount><![CDATA[]]></lc_solusvm_license_slavecount>
+    <lc_solusvm_license_minislavecount><![CDATA[]]></lc_solusvm_license_minislavecount>
+    <lc_solusvm_license_microslavecount><![CDATA[]]></lc_solusvm_license_microslavecount>
+    <lc_interworx_license_id><![CDATA[]]></lc_interworx_license_id>
+    <lc_interworx_license_status><![CDATA[]]></lc_interworx_license_status>
+    <lc_interworx_license_type><![CDATA[]]></lc_interworx_license_type>
+    <lc_ispmanager_license_type><![CDATA[]]></lc_ispmanager_license_type>
+    <lc_ispmanager_license_period><![CDATA[]]></lc_ispmanager_license_period>
+    <lc_ispmanager_license_id><![CDATA[]]></lc_ispmanager_license_id>
+    <lc_ispmanager_license_status><![CDATA[]]></lc_ispmanager_license_status>
+    <lc_ispmanager_license_licname><![CDATA[]]></lc_ispmanager_license_licname>
+    <lc_ispmanager_license_ip><![CDATA[]]></lc_ispmanager_license_ip>
+    <lc_interworx_license_ip><![CDATA[]]></lc_interworx_license_ip>
+    <lc_parallels_language_pack><![CDATA[]]></lc_parallels_language_pack>
+    <lc_directadmin_license_os_old><![CDATA[]]></lc_directadmin_license_os_old>
+    <lc_customerincentive_discount>25</lc_customerincentive_discount>
+    <lc_customerincentive_dailylimit>0</lc_customerincentive_dailylimit>
+    <lc_customerincentive_img_es>https://my.licensecube.com/license-process/_include/gui/dialog.png</lc_customerincentive_img_es>
+    <lc_customerincentive_img_en>https://my.licensecube.com/license-process/_include/gui/dialog.png</lc_customerincentive_img_en>
+    <lc_whmautopilot_license_status><![CDATA[]]></lc_whmautopilot_license_status>
+    <lc_whmautopilot_license_id><![CDATA[]]></lc_whmautopilot_license_id>
+    <lc_whmautopilot_license_client_id><![CDATA[]]></lc_whmautopilot_license_client_id>
+    <lc_whmautopilot_license_product_id><![CDATA[]]></lc_whmautopilot_license_product_id>
+    <lc_whmautopilot_license_category_id><![CDATA[]]></lc_whmautopilot_license_category_id>
+    <lc_whmautopilot_license_profile_id><![CDATA[]]></lc_whmautopilot_license_profile_id>
+    <lc_customerincentive_discount_type>0</lc_customerincentive_discount_type>
+    <lc_cpaneldirect_license_status><![CDATA[]]></lc_cpaneldirect_license_status>
+    <lc_cpaneldirect_license_id><![CDATA[]]></lc_cpaneldirect_license_id>
+    <lc_cpaneldirect_lincese_type><![CDATA[]]></lc_cpaneldirect_lincese_type>
+    <lc_cpaneldirect_license_ip><![CDATA[]]></lc_cpaneldirect_license_ip>
+    <lc_cpaneldirect_license_invoice_status><![CDATA[]]></lc_cpaneldirect_license_invoice_status>
+    <lc_disable_suspend>0</lc_disable_suspend>
+    <lc_alertpay_accepted>yes</lc_alertpay_accepted>
+    <lc_options_editable>0</lc_options_editable>
+    <lc_parallels_license_additional_keys><![CDATA[]]></lc_parallels_license_additional_keys>
+    <lc_parallels_license_additional_id><![CDATA[]]></lc_parallels_license_additional_id>
+    <lc_parallels_advertising_fotolia><![CDATA[]]></lc_parallels_advertising_fotolia>
+    <lc_parallels_advertising_newsfeed><![CDATA[]]></lc_parallels_advertising_newsfeed>
+    <lc_parallels_advertising_plesk_swsoft_services><![CDATA[]]></lc_parallels_advertising_plesk_swsoft_services>
+    <lc_parallels_advertising_virtuozzo_promo><![CDATA[]]></lc_parallels_advertising_virtuozzo_promo>
+    <lc_software_name><![CDATA[]]></lc_software_name>
+    <lc_latest_software_version><![CDATA[]]></lc_latest_software_version>
+    <lc_product_rating>4.0</lc_product_rating>
+    <lc_product_popularity>65%</lc_product_popularity>
+    <lc_autoinstaller>0</lc_autoinstaller>
+    <lc_license_dependencies>LIN10, LIN16, LIN44, LIN45, LIN55, LIN83, LIN82, LIN26, LIN20, LIN28, LIN84, LIN85, LIN86, LIN87, LIN88, LIN89, LIN92</lc_license_dependencies>
+    <lc_twilio_ring_validator_call_id><![CDATA[]]></lc_twilio_ring_validator_call_id>
+    <lc_twilio_ring_validator_call_status><![CDATA[]]></lc_twilio_ring_validator_call_status>
+    <lc_twilio_ring_validator_call_attempt><![CDATA[]]></lc_twilio_ring_validator_call_attempt>
+    <lc_twilio_ring_validator_last_call><![CDATA[]]></lc_twilio_ring_validator_last_call>
+    <lc_twilio_ring_validator_call_closed>0</lc_twilio_ring_validator_call_closed>
+    <lc_review_email_last_send><![CDATA[]]></lc_review_email_last_send>
+    <lc_review_email_sending_total><![CDATA[]]></lc_review_email_sending_total>
+    <lc_twilio_sms_antifraud_suspension><![CDATA[]]></lc_twilio_sms_antifraud_suspension>
+    <lc_sitelock_license_id><![CDATA[]]></lc_sitelock_license_id>
+    <lc_sitelock_account_password><![CDATA[]]></lc_sitelock_account_password>
+    <lc_sitelock_site_information_id><![CDATA[]]></lc_sitelock_site_information_id>
+    <lc_sitelock_subscription_type><![CDATA[]]></lc_sitelock_subscription_type>
+    <lc_hostbill_license_id><![CDATA[]]></lc_hostbill_license_id>
+    <lc_hostbill_license_status><![CDATA[]]></lc_hostbill_license_status>
+    <lc_hostbill_license_ip><![CDATA[]]></lc_hostbill_license_ip>
+    <lc_hostbill_license_domain><![CDATA[]]></lc_hostbill_license_domain>
+    <lc_hostbill_license_activation><![CDATA[]]></lc_hostbill_license_activation>
+    <lc_parallels_license_hwid><![CDATA[]]></lc_parallels_license_hwid>
+    <lc_litespeed_license_id><![CDATA[]]></lc_litespeed_license_id>
+    <lc_litespeed_license_status><![CDATA[]]></lc_litespeed_license_status>
+    <lc_litespeed_license_serial><![CDATA[]]></lc_litespeed_license_serial>
+    <lc_trendy_license_id><![CDATA[]]></lc_trendy_license_id>
+    <lc_trendy_license_status><![CDATA[]]></lc_trendy_license_status>
+    <lc_trendy_license_product><![CDATA[]]></lc_trendy_license_product>
+    <lc_trendy_license_ip><![CDATA[]]></lc_trendy_license_ip>
+    <lc_litespeed_license_order_cpu><![CDATA[]]></lc_litespeed_license_order_cpu>
+    <lc_ubersmith_license_id><![CDATA[]]></lc_ubersmith_license_id>
+    <lc_ubersmith_license_status><![CDATA[]]></lc_ubersmith_license_status>
+    <lc_ubersmith_license_domain><![CDATA[]]></lc_ubersmith_license_domain>
+    <lc_ubersmith_license_username><![CDATA[]]></lc_ubersmith_license_username>
+    <lc_ubersmith_license_password><![CDATA[]]></lc_ubersmith_license_password>
+    <lc_zopim_license_id><![CDATA[]]></lc_zopim_license_id>
+    <lc_zopim_license_status><![CDATA[]]></lc_zopim_license_status>
+    <lc_zopim_account_key><![CDATA[]]></lc_zopim_account_key>
+    <lc_zopim_account_password><![CDATA[]]></lc_zopim_account_password>
+    <lc_zopim_account_subscription_plan><![CDATA[]]></lc_zopim_account_subscription_plan>
+    <lc_sitelock_license_status><![CDATA[]]></lc_sitelock_license_status>
+    <lc_sitelock_activation_attempt><![CDATA[]]></lc_sitelock_activation_attempt>
+    <lc_sitelock_license_domain>siteLock Domain</lc_sitelock_license_domain>
+    <lc_lb_rating_source>directadmin</lc_lb_rating_source>
+    <notes/>
+    <taxes/>
+  </plan_info>
+  <plan_info plan_id="34">
+    <plan_id>34</plan_id>
+    <class_id>2</class_id>
+    <title>WHMXtra License</title>
+    <code>LIN8</code>
+    <category>Licenses</category>
+    <price>2.95</price>
+    <setup>0.00</setup>
+    <period>1</period>
+    <api_include>1</api_include>
+    <service_host><![CDATA[]]></service_host>
+    <bill_type>0</bill_type>
+    <auto_bill>1</auto_bill>
+    <active>1</active>
+    <welcomeadd><![CDATA[LicenseCube AVS <noreply@licensecube.com>]]></welcomeadd>
+    <welcomesub>LicenseCube Activation - WHMXtra License!</welcomesub>
+    <welcomebody><![CDATA[##first_name##,
+
+Thank you for choosing LicenseCube for your licensing purchase. 
+
+THANK YOU: 
+
+At LicenseCube, we strive to provide the best service possible. In doing so, we want to hear more about your experiences, and feedback. So if you have anything you’d like to share with the LicenseCube team, please email us at feedback@licensecube.com 
+
+LICENSE ACTIVATION:
+
+Your WHMXtra License has now been activated. You are now ready to use this license. Below, you will find some more information that is important to your purchase.  If any of the information listed below is incorrect, please contact us at 1-855-465-4236 so we can get these issues resolved. 
+
+WHMXtra License Status: ##lc_license_status##
+WHMXtra License ID: ##lc_whmxtra_license_id## (This is your WHMXtra Key)
+
+LICENSE UPDATE:
+
+Have you accidentally input the wrong information during the order process? No problems! Updating your license with LicenseCube is extremely straightforward. Simply follow the below mentioned steps and you will be completed in just minutes:
+
+1. Go to http://www.licensecube.com/support/kb
+2. Click on the “Update License” Tab
+3. Input the requested information and click “Submit Form” 
+4. Your license has been changed, and an email notification has been sent!
+
+INSTALLATION:
+
+The basic installation process of a WHMXtra license is relatively straightforward. Please follow the url listed below. If you do get stuck, please give our support department a call for further assistance at  1-855-465-4236.
+
+Please note, that in order to be able to run WHMXtra, you will need to have cPanel/WHM already installed on your server; otherwise, this installation will not install correctly.
+
+1. Login to your server via command line (as a root user)
+2. Please run the below mentioned command. This will remove any old WHMXtra files:
+
+              rm -rf xtra.sh;rm -rf cpx.sh;rm -rf pro.sh;rm -rf basic.sh;rm -rf xlite.sh
+
+3. If you have a firewall, you may wish to disable it while the installer downloads the necessary installation files for WHMXtra. 
+
+             wget http://whmxtra.com/pro/pro.sh;sh pro.sh
+
+4. Now, we will need to login to WHM (Web Host Manager), and apply the license key onto the application. To do this, please go ahead and scroll down the left hand side of the WHM until you get to “Plugins” and from there you will be able to click on “WHMXtra” and then go into “Options >> License Update”. 
+
+5. After that, please enter in your license key and please click “Submit”. Followed by clicking on “Test License” which will automatically lock the license onto your server.
+
+6. The installation is now complete, and you may start using WHMXtra! 
+
+If you have any issues with this installation, please don’t hesitate to get ahold of a member of the LicenseCube support team for further assistance. 
+
+Once again, thanks for choosing LicenseCube as your licensing provider. We look forward to working with you!
+
+Best Regards,
+
+The LicenseCube Team
+P: 1-855-465-4236
+Follow us on Twitter! www.twitter.com/licensecube]]></welcomebody>
+    <offerwelcome>0</offerwelcome>
+    <quantity>1.00</quantity>
+    <suspend_after>2</suspend_after>
+    <cancel_after>7</cancel_after>
+    <suspend_bool>1</suspend_bool>
+    <cancel_bool>1</cancel_bool>
+    <qblistid><![CDATA[]]></qblistid>
+    <qbaccount><![CDATA[]]></qbaccount>
+    <one_time_price>0.00</one_time_price>
+    <one_time_setup>0.00</one_time_setup>
+    <monthly_price>2.95</monthly_price>
+    <monthly_setup>0.00</monthly_setup>
+    <quarterly_price>0.00</quarterly_price>
+    <quarterly_setup>0.00</quarterly_setup>
+    <semi_price>0.00</semi_price>
+    <semi_setup>0.00</semi_setup>
+    <annual_price>0.00</annual_price>
+    <annual_setup>0.00</annual_setup>
+    <option_groups/>
+    <upgrade_groups>
+      <upgrade_group spug_id="0">
+        <spug_id>0</spug_id>
+        <spug_plan_id>34</spug_plan_id>
+        <spug_status>1</spug_status>
+        <spug_name>Ungrouped</spug_name>
+      </upgrade_group>
+    </upgrade_groups>
+    <active_licensing><![CDATA[]]></active_licensing>
+    <lc_license_dedicated>na</lc_license_dedicated>
+    <lc_product_type>additional_software</lc_product_type>
+    <lc_url_basename>whmxtra_license</lc_url_basename>
+    <lc_fantastico_license_id><![CDATA[]]></lc_fantastico_license_id>
+    <lc_fantastico_license_type>none</lc_fantastico_license_type>
+    <lc_fantastico_license_ip><![CDATA[]]></lc_fantastico_license_ip>
+    <lc_fantastico_license_status><![CDATA[]]></lc_fantastico_license_status>
+    <lc_blesta_license_domain><![CDATA[]]></lc_blesta_license_domain>
+    <lc_blesta_license_prorate>0</lc_blesta_license_prorate>
+    <lc_blesta_license_term>monthly</lc_blesta_license_term>
+    <lc_blesta_license_id><![CDATA[]]></lc_blesta_license_id>
+    <lc_cpanel_license_promoinfo><![CDATA[]]></lc_cpanel_license_promoinfo>
+    <lc_requires_domain>0</lc_requires_domain>
+    <lc_cpanel_license_id><![CDATA[]]></lc_cpanel_license_id>
+    <lc_cpanel_license_status><![CDATA[]]></lc_cpanel_license_status>
+    <lc_cpanel_license_reason><![CDATA[]]></lc_cpanel_license_reason>
+    <lc_cpanel_license_ip><![CDATA[]]></lc_cpanel_license_ip>
+    <lc_cpanel_license_group_id><![CDATA[]]></lc_cpanel_license_group_id>
+    <lc_cpanel_license_package_id><![CDATA[]]></lc_cpanel_license_package_id>
+    <lc_cpanel_license_yearly><![CDATA[]]></lc_cpanel_license_yearly>
+    <lc_cpanel_enkompass_users><![CDATA[]]></lc_cpanel_enkompass_users>
+    <lc_softaculous_license_ip><![CDATA[]]></lc_softaculous_license_ip>
+    <lc_softaculous_license_time><![CDATA[]]></lc_softaculous_license_time>
+    <lc_softaculous_license_servertype><![CDATA[]]></lc_softaculous_license_servertype>
+    <lc_softaculous_license_email><![CDATA[]]></lc_softaculous_license_email>
+    <lc_softaculous_license_autorenew><![CDATA[]]></lc_softaculous_license_autorenew>
+    <lc_softaculous_license_id><![CDATA[]]></lc_softaculous_license_id>
+    <lc_softaculous_license_key><![CDATA[]]></lc_softaculous_license_key>
+    <lc_softaculous_license_start><![CDATA[]]></lc_softaculous_license_start>
+    <lc_softaculous_license_actid><![CDATA[]]></lc_softaculous_license_actid>
+    <lc_softaculous_license_status><![CDATA[]]></lc_softaculous_license_status>
+    <lc_rvglobal_license_status><![CDATA[]]></lc_rvglobal_license_status>
+    <lc_rvglobal_license_ip><![CDATA[]]></lc_rvglobal_license_ip>
+    <lc_rvglobal_license_type><![CDATA[]]></lc_rvglobal_license_type>
+    <lc_whmsonic_license_period><![CDATA[]]></lc_whmsonic_license_period>
+    <lc_whmsonic_license_email><![CDATA[]]></lc_whmsonic_license_email>
+    <lc_whmsonic_license_ip><![CDATA[]]></lc_whmsonic_license_ip>
+    <lc_whmsonic_license_order_id><![CDATA[]]></lc_whmsonic_license_order_id>
+    <lc_whmsonic_license_name><![CDATA[]]></lc_whmsonic_license_name>
+    <lc_whmsonic_license_status><![CDATA[]]></lc_whmsonic_license_status>
+    <lc_directadmin_license_name><![CDATA[]]></lc_directadmin_license_name>
+    <lc_directadmin_license_pid><![CDATA[]]></lc_directadmin_license_pid>
+    <lc_directadmin_license_os><![CDATA[]]></lc_directadmin_license_os>
+    <lc_directadmin_license_ip><![CDATA[]]></lc_directadmin_license_ip>
+    <lc_directadmin_license_password><![CDATA[]]></lc_directadmin_license_password>
+    <lc_directadmin_license_domain><![CDATA[]]></lc_directadmin_license_domain>
+    <lc_directadmin_license_username><![CDATA[]]></lc_directadmin_license_username>
+    <lc_directadmin_license_id><![CDATA[]]></lc_directadmin_license_id>
+    <lc_directadmin_license_status><![CDATA[]]></lc_directadmin_license_status>
+    <lc_blesta_license_status><![CDATA[]]></lc_blesta_license_status>
+    <lc_directadmin_license_email><![CDATA[]]></lc_directadmin_license_email>
+    <lc_directadmin_license_payment><![CDATA[]]></lc_directadmin_license_payment>
+    <lc_requires_ip>0</lc_requires_ip>
+    <lc_parallels_license_status><![CDATA[]]></lc_parallels_license_status>
+    <lc_parallels_license_keytype><![CDATA[]]></lc_parallels_license_keytype>
+    <lc_parallels_license_feature><![CDATA[]]></lc_parallels_license_feature>
+    <lc_parallels_license_id><![CDATA[]]></lc_parallels_license_id>
+    <lc_parallels_license_ip><![CDATA[]]></lc_parallels_license_ip>
+    <lc_whmxtra_license_id><![CDATA[]]></lc_whmxtra_license_id>
+    <lc_parallels_license_email_status><![CDATA[]]></lc_parallels_license_email_status>
+    <lc_whmxtra_license_status><![CDATA[]]></lc_whmxtra_license_status>
+    <lc_requires_license_id>1</lc_requires_license_id>
+    <lc_license_id><![CDATA[]]></lc_license_id>
+    <lc_license_change_action>module</lc_license_change_action>
+    <lc_license_status><![CDATA[]]></lc_license_status>
+    <lc_license_user_count><![CDATA[]]></lc_license_user_count>
+    <lc_clientexec_license_domain><![CDATA[]]></lc_clientexec_license_domain>
+    <lc_refund_issued><![CDATA[]]></lc_refund_issued>
+    <lc_license_mtime><![CDATA[]]></lc_license_mtime>
+    <lc_license_applied_time><![CDATA[]]></lc_license_applied_time>
+    <lc_license_update_email_time><![CDATA[]]></lc_license_update_email_time>
+    <lc_paypal_accepted>yes</lc_paypal_accepted>
+    <lc_credit_cards_accepted>yes</lc_credit_cards_accepted>
+    <lc_provider_refused_license>0</lc_provider_refused_license>
+    <lc_license_ip><![CDATA[]]></lc_license_ip>
+    <lc_requires_cpanel_ip_check>no</lc_requires_cpanel_ip_check>
+    <lc_parallels_license_domain><![CDATA[]]></lc_parallels_license_domain>
+    <lc_whmcs_license_type><![CDATA[]]></lc_whmcs_license_type>
+    <lc_installatron_license_id><![CDATA[]]></lc_installatron_license_id>
+    <lc_installatron_license_ip><![CDATA[]]></lc_installatron_license_ip>
+    <lc_installatron_license_status><![CDATA[]]></lc_installatron_license_status>
+    <lc_installatron_license_type><![CDATA[]]></lc_installatron_license_type>
+    <lc_download_links><![CDATA[]]></lc_download_links>
+    <lc_api_remote_client_id><![CDATA[]]></lc_api_remote_client_id>
+    <lc_whmcs_license_password><![CDATA[]]></lc_whmcs_license_password>
+    <lc_whmcs_license_id><![CDATA[]]></lc_whmcs_license_id>
+    <lc_license_comment_message><![CDATA[]]></lc_license_comment_message>
+    <lc_license_updates_per_hour>4</lc_license_updates_per_hour>
+    <lc_license_update_status><![CDATA[]]></lc_license_update_status>
+    <lc_clientexec_license_status><![CDATA[]]></lc_clientexec_license_status>
+    <lc_clientexec_license_customerslimit><![CDATA[]]></lc_clientexec_license_customerslimit>
+    <lc_license_update_in_progress><![CDATA[]]></lc_license_update_in_progress>
+    <lc_whmcs_license_status><![CDATA[]]></lc_whmcs_license_status>
+    <lc_api_remote_pack_id><![CDATA[]]></lc_api_remote_pack_id>
+    <lc_solusvm_license_id><![CDATA[]]></lc_solusvm_license_id>
+    <lc_solusvm_license_status><![CDATA[]]></lc_solusvm_license_status>
+    <lc_solusvm_license_slavecount><![CDATA[]]></lc_solusvm_license_slavecount>
+    <lc_solusvm_license_minislavecount><![CDATA[]]></lc_solusvm_license_minislavecount>
+    <lc_solusvm_license_microslavecount><![CDATA[]]></lc_solusvm_license_microslavecount>
+    <lc_interworx_license_id><![CDATA[]]></lc_interworx_license_id>
+    <lc_interworx_license_status><![CDATA[]]></lc_interworx_license_status>
+    <lc_interworx_license_type><![CDATA[]]></lc_interworx_license_type>
+    <lc_ispmanager_license_type><![CDATA[]]></lc_ispmanager_license_type>
+    <lc_ispmanager_license_period><![CDATA[]]></lc_ispmanager_license_period>
+    <lc_ispmanager_license_id><![CDATA[]]></lc_ispmanager_license_id>
+    <lc_ispmanager_license_status><![CDATA[]]></lc_ispmanager_license_status>
+    <lc_ispmanager_license_licname><![CDATA[]]></lc_ispmanager_license_licname>
+    <lc_ispmanager_license_ip><![CDATA[]]></lc_ispmanager_license_ip>
+    <lc_interworx_license_ip><![CDATA[]]></lc_interworx_license_ip>
+    <lc_parallels_language_pack><![CDATA[]]></lc_parallels_language_pack>
+    <lc_directadmin_license_os_old><![CDATA[]]></lc_directadmin_license_os_old>
+    <lc_customerincentive_discount>25</lc_customerincentive_discount>
+    <lc_customerincentive_dailylimit>0</lc_customerincentive_dailylimit>
+    <lc_customerincentive_img_es>https://my.licensecube.com/license-process/_include/gui/dialog.png</lc_customerincentive_img_es>
+    <lc_customerincentive_img_en>https://my.licensecube.com/license-process/_include/gui/dialog.png</lc_customerincentive_img_en>
+    <lc_whmautopilot_license_status><![CDATA[]]></lc_whmautopilot_license_status>
+    <lc_whmautopilot_license_id><![CDATA[]]></lc_whmautopilot_license_id>
+    <lc_whmautopilot_license_client_id><![CDATA[]]></lc_whmautopilot_license_client_id>
+    <lc_whmautopilot_license_product_id><![CDATA[]]></lc_whmautopilot_license_product_id>
+    <lc_whmautopilot_license_category_id><![CDATA[]]></lc_whmautopilot_license_category_id>
+    <lc_whmautopilot_license_profile_id><![CDATA[]]></lc_whmautopilot_license_profile_id>
+    <lc_customerincentive_discount_type>0</lc_customerincentive_discount_type>
+    <lc_cpaneldirect_license_status><![CDATA[]]></lc_cpaneldirect_license_status>
+    <lc_cpaneldirect_license_id><![CDATA[]]></lc_cpaneldirect_license_id>
+    <lc_cpaneldirect_lincese_type><![CDATA[]]></lc_cpaneldirect_lincese_type>
+    <lc_cpaneldirect_license_ip><![CDATA[]]></lc_cpaneldirect_license_ip>
+    <lc_cpaneldirect_license_invoice_status><![CDATA[]]></lc_cpaneldirect_license_invoice_status>
+    <lc_disable_suspend>0</lc_disable_suspend>
+    <lc_alertpay_accepted>yes</lc_alertpay_accepted>
+    <lc_options_editable>0</lc_options_editable>
+    <lc_parallels_license_additional_keys><![CDATA[]]></lc_parallels_license_additional_keys>
+    <lc_parallels_license_additional_id><![CDATA[]]></lc_parallels_license_additional_id>
+    <lc_parallels_advertising_fotolia><![CDATA[]]></lc_parallels_advertising_fotolia>
+    <lc_parallels_advertising_newsfeed><![CDATA[]]></lc_parallels_advertising_newsfeed>
+    <lc_parallels_advertising_plesk_swsoft_services><![CDATA[]]></lc_parallels_advertising_plesk_swsoft_services>
+    <lc_parallels_advertising_virtuozzo_promo><![CDATA[]]></lc_parallels_advertising_virtuozzo_promo>
+    <lc_software_name><![CDATA[]]></lc_software_name>
+    <lc_latest_software_version><![CDATA[]]></lc_latest_software_version>
+    <lc_product_rating>4.5</lc_product_rating>
+    <lc_product_popularity>30%</lc_product_popularity>
+    <lc_autoinstaller>0</lc_autoinstaller>
+    <lc_license_dependencies>LIN0, LIN14, LIN50, LIN9, LIN17, LIN10, LIN16, LIN44, LIN45, LIN55, LIN83, LIN82, LIN26, LIN20, LIN28, LIN23, LIN24, LIN21, LIN22, LIN84, LIN25, LIN27, LIN85, LIN86, LIN87, LIN88, LIN89, LIN92, LIN90, LIN91</lc_license_dependencies>
+    <lc_twilio_ring_validator_call_id><![CDATA[]]></lc_twilio_ring_validator_call_id>
+    <lc_twilio_ring_validator_call_status><![CDATA[]]></lc_twilio_ring_validator_call_status>
+    <lc_twilio_ring_validator_call_attempt><![CDATA[]]></lc_twilio_ring_validator_call_attempt>
+    <lc_twilio_ring_validator_last_call><![CDATA[]]></lc_twilio_ring_validator_last_call>
+    <lc_twilio_ring_validator_call_closed>0</lc_twilio_ring_validator_call_closed>
+    <lc_review_email_last_send><![CDATA[]]></lc_review_email_last_send>
+    <lc_review_email_sending_total><![CDATA[]]></lc_review_email_sending_total>
+    <lc_twilio_sms_antifraud_suspension><![CDATA[]]></lc_twilio_sms_antifraud_suspension>
+    <lc_sitelock_license_id><![CDATA[]]></lc_sitelock_license_id>
+    <lc_sitelock_account_password><![CDATA[]]></lc_sitelock_account_password>
+    <lc_sitelock_site_information_id><![CDATA[]]></lc_sitelock_site_information_id>
+    <lc_sitelock_subscription_type><![CDATA[]]></lc_sitelock_subscription_type>
+    <lc_hostbill_license_id><![CDATA[]]></lc_hostbill_license_id>
+    <lc_hostbill_license_status><![CDATA[]]></lc_hostbill_license_status>
+    <lc_hostbill_license_ip><![CDATA[]]></lc_hostbill_license_ip>
+    <lc_hostbill_license_domain><![CDATA[]]></lc_hostbill_license_domain>
+    <lc_hostbill_license_activation><![CDATA[]]></lc_hostbill_license_activation>
+    <lc_parallels_license_hwid><![CDATA[]]></lc_parallels_license_hwid>
+    <lc_litespeed_license_id><![CDATA[]]></lc_litespeed_license_id>
+    <lc_litespeed_license_status><![CDATA[]]></lc_litespeed_license_status>
+    <lc_litespeed_license_serial><![CDATA[]]></lc_litespeed_license_serial>
+    <lc_trendy_license_id><![CDATA[]]></lc_trendy_license_id>
+    <lc_trendy_license_status><![CDATA[]]></lc_trendy_license_status>
+    <lc_trendy_license_product><![CDATA[]]></lc_trendy_license_product>
+    <lc_trendy_license_ip><![CDATA[]]></lc_trendy_license_ip>
+    <lc_litespeed_license_order_cpu><![CDATA[]]></lc_litespeed_license_order_cpu>
+    <lc_ubersmith_license_id><![CDATA[]]></lc_ubersmith_license_id>
+    <lc_ubersmith_license_status><![CDATA[]]></lc_ubersmith_license_status>
+    <lc_ubersmith_license_domain><![CDATA[]]></lc_ubersmith_license_domain>
+    <lc_ubersmith_license_username><![CDATA[]]></lc_ubersmith_license_username>
+    <lc_ubersmith_license_password><![CDATA[]]></lc_ubersmith_license_password>
+    <lc_zopim_license_id><![CDATA[]]></lc_zopim_license_id>
+    <lc_zopim_license_status><![CDATA[]]></lc_zopim_license_status>
+    <lc_zopim_account_key><![CDATA[]]></lc_zopim_account_key>
+    <lc_zopim_account_password><![CDATA[]]></lc_zopim_account_password>
+    <lc_zopim_account_subscription_plan><![CDATA[]]></lc_zopim_account_subscription_plan>
+    <lc_sitelock_license_status><![CDATA[]]></lc_sitelock_license_status>
+    <lc_sitelock_activation_attempt><![CDATA[]]></lc_sitelock_activation_attempt>
+    <lc_sitelock_license_domain>siteLock Domain</lc_sitelock_license_domain>
+    <lc_lb_rating_source>whmxtra</lc_lb_rating_source>
+    <notes/>
+    <taxes/>
+  </plan_info>
+  <plan_info plan_id="35">
+    <plan_id>35</plan_id>
+    <class_id>2</class_id>
+    <title>Fantastico VPS License</title>
+    <code>LIN9</code>
+    <category>Licenses</category>
+    <price>2.95</price>
+    <setup>0.00</setup>
+    <period>1</period>
+    <api_include>1</api_include>
+    <service_host><![CDATA[]]></service_host>
+    <bill_type>1</bill_type>
+    <auto_bill>1</auto_bill>
+    <active>1</active>
+    <welcomeadd><![CDATA[LicenseCube AVS <noreply@licensecube.com>]]></welcomeadd>
+    <welcomesub>LicenseCube Activation - Fantastico VPS License!</welcomesub>
+    <welcomebody>##first_name##,
+
+Thank you for choosing LicenseCube for your licensing purchase. 
+
+THANK YOU:
+
+At LicenseCube, we strive to provide the best service possible. In doing so, we want to hear more about your experiences, and feedback. So if you have anything you’d like to share with the LicenseCube team, please email us at feedback@licensecube.com 
+
+LICENSE ACTIVATION:
+
+Your Fantastico ##lc_fantastico_license_type## License has now been activated. Below, you will find some more information that is important to your purchase.  If any of the information listed below is incorrect, please contact us at 1-855-465-4236 so we may get these issues resolved. 
+
+Fantastico License Status: ##lc_fantastico_license_status##
+Fantastico License ID: ##lc_fantastico_license_id##
+Fantastico IP Address: ##lc_fantastico_license_ip##
+Fantastico License Type:  ##lc_fantastico_license_type## Server
+
+LICENSE UPDATE:
+
+Accidentally input the wrong information during the order process? No problems! Updating your license with LicenseCube is extremely straightforward. Simply follow the below mentioned steps and you will be completed in just minutes:
+
+1. Go to http://www.licensecube.com/support/kb
+2. Click on the “Update License” Tab
+3. Input the requested information and click “Submit Form” 
+4. Your license has been changed, and an email notification has been sent!
+
+INSTALLATION:
+
+The basic installation process of a Fantastico license is relatively straightforward. Please follow the outlined steps below. If you do get stuck, please give our support department a call for further assistance at 1-855-465-4236.
+
+1. Login to your server via command line (as a root user)
+2. Copy and Paste the below commands into the window:
+
+           cd /usr/local/cpanel/whostmgr/docroot/cgi 
+           wget -N http://files.betaservant.com/files/free/fantastico_whm_admin.tgz
+           tar -xzpf fantastico_whm_admin.tgz 
+           rm -rf fantastico_whm_admin.tgz
+
+3. Upon this stage being completed, please login to your WHM (Web Host Manager)
+4. Once logged in, please scroll down to the bottom of the menu on the left to a section that says “Add-Ons” and then to “Fantastico De Luxe WHM Admin”
+5. Follow the easy online installation process, and you’re done! Fantastico has been installed!
+
+If you have any issues with this installation, please don’t hesitate to get a hold of a member of the LicenseCube support team for further assistance. 
+
+Once again, thanks for choosing LicenseCube as your licensing provider. We look forward to working with you!
+
+Best Regards,
+
+The LicenseCube Team
+P: 1-855-465-4236
+Follow us on Twitter! www.twitter.com/licensecube</welcomebody>
+    <offerwelcome>0</offerwelcome>
+    <quantity>1.00</quantity>
+    <suspend_after>2</suspend_after>
+    <cancel_after>7</cancel_after>
+    <suspend_bool>1</suspend_bool>
+    <cancel_bool>1</cancel_bool>
+    <qblistid><![CDATA[]]></qblistid>
+    <qbaccount><![CDATA[]]></qbaccount>
+    <one_time_price>0.00</one_time_price>
+    <one_time_setup>0.00</one_time_setup>
+    <monthly_price>2.95</monthly_price>
+    <monthly_setup>0.00</monthly_setup>
+    <quarterly_price>0.00</quarterly_price>
+    <quarterly_setup>0.00</quarterly_setup>
+    <semi_price>0.00</semi_price>
+    <semi_setup>0.00</semi_setup>
+    <annual_price>0.00</annual_price>
+    <annual_setup>0.00</annual_setup>
+    <option_groups/>
+    <upgrade_groups>
+      <upgrade_group spug_id="0">
+        <spug_id>0</spug_id>
+        <spug_plan_id>35</spug_plan_id>
+        <spug_status>1</spug_status>
+        <spug_name>Ungrouped</spug_name>
+      </upgrade_group>
+    </upgrade_groups>
+    <active_licensing><![CDATA[]]></active_licensing>
+    <lc_license_dedicated>vps</lc_license_dedicated>
+    <lc_product_type>control_panel</lc_product_type>
+    <lc_url_basename>fantastico_vps</lc_url_basename>
+    <lc_fantastico_license_id><![CDATA[]]></lc_fantastico_license_id>
+    <lc_fantastico_license_type>none</lc_fantastico_license_type>
+    <lc_fantastico_license_ip><![CDATA[]]></lc_fantastico_license_ip>
+    <lc_fantastico_license_status><![CDATA[]]></lc_fantastico_license_status>
+    <lc_blesta_license_domain><![CDATA[]]></lc_blesta_license_domain>
+    <lc_blesta_license_prorate>0</lc_blesta_license_prorate>
+    <lc_blesta_license_term>monthly</lc_blesta_license_term>
+    <lc_blesta_license_id><![CDATA[]]></lc_blesta_license_id>
+    <lc_cpanel_license_promoinfo><![CDATA[]]></lc_cpanel_license_promoinfo>
+    <lc_requires_domain>0</lc_requires_domain>
+    <lc_cpanel_license_id><![CDATA[]]></lc_cpanel_license_id>
+    <lc_cpanel_license_status><![CDATA[]]></lc_cpanel_license_status>
+    <lc_cpanel_license_reason><![CDATA[]]></lc_cpanel_license_reason>
+    <lc_cpanel_license_ip><![CDATA[]]></lc_cpanel_license_ip>
+    <lc_cpanel_license_group_id><![CDATA[]]></lc_cpanel_license_group_id>
+    <lc_cpanel_license_package_id><![CDATA[]]></lc_cpanel_license_package_id>
+    <lc_cpanel_license_yearly><![CDATA[]]></lc_cpanel_license_yearly>
+    <lc_cpanel_enkompass_users><![CDATA[]]></lc_cpanel_enkompass_users>
+    <lc_softaculous_license_ip><![CDATA[]]></lc_softaculous_license_ip>
+    <lc_softaculous_license_time><![CDATA[]]></lc_softaculous_license_time>
+    <lc_softaculous_license_servertype><![CDATA[]]></lc_softaculous_license_servertype>
+    <lc_softaculous_license_email><![CDATA[]]></lc_softaculous_license_email>
+    <lc_softaculous_license_autorenew><![CDATA[]]></lc_softaculous_license_autorenew>
+    <lc_softaculous_license_id><![CDATA[]]></lc_softaculous_license_id>
+    <lc_softaculous_license_key><![CDATA[]]></lc_softaculous_license_key>
+    <lc_softaculous_license_start><![CDATA[]]></lc_softaculous_license_start>
+    <lc_softaculous_license_actid><![CDATA[]]></lc_softaculous_license_actid>
+    <lc_softaculous_license_status><![CDATA[]]></lc_softaculous_license_status>
+    <lc_rvglobal_license_status><![CDATA[]]></lc_rvglobal_license_status>
+    <lc_rvglobal_license_ip><![CDATA[]]></lc_rvglobal_license_ip>
+    <lc_rvglobal_license_type><![CDATA[]]></lc_rvglobal_license_type>
+    <lc_whmsonic_license_period><![CDATA[]]></lc_whmsonic_license_period>
+    <lc_whmsonic_license_email><![CDATA[]]></lc_whmsonic_license_email>
+    <lc_whmsonic_license_ip><![CDATA[]]></lc_whmsonic_license_ip>
+    <lc_whmsonic_license_order_id><![CDATA[]]></lc_whmsonic_license_order_id>
+    <lc_whmsonic_license_name><![CDATA[]]></lc_whmsonic_license_name>
+    <lc_whmsonic_license_status><![CDATA[]]></lc_whmsonic_license_status>
+    <lc_directadmin_license_name><![CDATA[]]></lc_directadmin_license_name>
+    <lc_directadmin_license_pid><![CDATA[]]></lc_directadmin_license_pid>
+    <lc_directadmin_license_os><![CDATA[]]></lc_directadmin_license_os>
+    <lc_directadmin_license_ip><![CDATA[]]></lc_directadmin_license_ip>
+    <lc_directadmin_license_password><![CDATA[]]></lc_directadmin_license_password>
+    <lc_directadmin_license_domain><![CDATA[]]></lc_directadmin_license_domain>
+    <lc_directadmin_license_username><![CDATA[]]></lc_directadmin_license_username>
+    <lc_directadmin_license_id><![CDATA[]]></lc_directadmin_license_id>
+    <lc_directadmin_license_status><![CDATA[]]></lc_directadmin_license_status>
+    <lc_blesta_license_status><![CDATA[]]></lc_blesta_license_status>
+    <lc_directadmin_license_email><![CDATA[]]></lc_directadmin_license_email>
+    <lc_directadmin_license_payment><![CDATA[]]></lc_directadmin_license_payment>
+    <lc_requires_ip>1</lc_requires_ip>
+    <lc_parallels_license_status><![CDATA[]]></lc_parallels_license_status>
+    <lc_parallels_license_keytype><![CDATA[]]></lc_parallels_license_keytype>
+    <lc_parallels_license_feature><![CDATA[]]></lc_parallels_license_feature>
+    <lc_parallels_license_id><![CDATA[]]></lc_parallels_license_id>
+    <lc_parallels_license_ip><![CDATA[]]></lc_parallels_license_ip>
+    <lc_whmxtra_license_id><![CDATA[]]></lc_whmxtra_license_id>
+    <lc_parallels_license_email_status><![CDATA[]]></lc_parallels_license_email_status>
+    <lc_whmxtra_license_status><![CDATA[]]></lc_whmxtra_license_status>
+    <lc_requires_license_id>0</lc_requires_license_id>
+    <lc_license_id><![CDATA[]]></lc_license_id>
+    <lc_license_change_action><![CDATA[]]></lc_license_change_action>
+    <lc_license_status><![CDATA[]]></lc_license_status>
+    <lc_license_user_count><![CDATA[]]></lc_license_user_count>
+    <lc_clientexec_license_domain><![CDATA[]]></lc_clientexec_license_domain>
+    <lc_refund_issued><![CDATA[]]></lc_refund_issued>
+    <lc_license_mtime><![CDATA[]]></lc_license_mtime>
+    <lc_license_applied_time><![CDATA[]]></lc_license_applied_time>
+    <lc_license_update_email_time><![CDATA[]]></lc_license_update_email_time>
+    <lc_paypal_accepted>yes</lc_paypal_accepted>
+    <lc_credit_cards_accepted>yes</lc_credit_cards_accepted>
+    <lc_provider_refused_license>0</lc_provider_refused_license>
+    <lc_license_ip><![CDATA[]]></lc_license_ip>
+    <lc_requires_cpanel_ip_check>yes</lc_requires_cpanel_ip_check>
+    <lc_parallels_license_domain><![CDATA[]]></lc_parallels_license_domain>
+    <lc_whmcs_license_type><![CDATA[]]></lc_whmcs_license_type>
+    <lc_installatron_license_id><![CDATA[]]></lc_installatron_license_id>
+    <lc_installatron_license_ip><![CDATA[]]></lc_installatron_license_ip>
+    <lc_installatron_license_status><![CDATA[]]></lc_installatron_license_status>
+    <lc_installatron_license_type><![CDATA[]]></lc_installatron_license_type>
+    <lc_download_links><![CDATA[]]></lc_download_links>
+    <lc_api_remote_cli
+[28-Mar-2015 22:07:51 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/licensec/public_html/_include/classes/Ubersmith.class.php on line 93
+[28-Mar-2015 22:07:51 America/New_York] UberSmith::getPlanByCode(code=LIN0): not found
+[28-Mar-2015 22:07:51 America/New_York] UberSmith::getPlanByCode(code=LIN72): not found
+[28-Mar-2015 22:07:51 America/New_York] UberSmith::getPlanByCode(code=LIN5): not found
+[28-Mar-2015 22:07:51 America/New_York] UberSmith::getPlanByCode(code=LIN10): not found
+[28-Mar-2015 22:07:51 America/New_York] UberSmith::getPlanByCode(code=LIN9): not found
+[28-Mar-2015 22:07:51 America/New_York] UberSmith::getPlanByCode(code=LIN44): not found
+[28-Mar-2015 22:07:51 America/New_York] UberSmith::getPlanByCode(code=LIN48): not found
+[28-Mar-2015 22:07:51 America/New_York] UberSmith::getPlanByCode(code=LIN51): not found
+[28-Mar-2015 22:07:51 America/New_York] UberSmith::getPlanByCode(code=LIN11): not found
+[28-Mar-2015 22:07:51 America/New_York] UberSmith::getPlanByCode(code=LIN75): not found
+[28-Mar-2015 22:07:51 America/New_York] UberSmith::getPlanByCode(code=LIN46): not found
+[28-Mar-2015 22:07:51 America/New_York] UberSmith::getPlanByCode(code=LIN83): not found
+[28-Mar-2015 22:07:51 America/New_York] UberSmith::getPlanByCode(code=LIN82): not found
+[28-Mar-2015 22:07:51 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[28-Mar-2015 22:07:51 America/New_York] UberSmith::getPlanByCode(code=LIN20): not found
+[28-Mar-2015 22:07:51 America/New_York] UberSmith::getPlanByCode(code=LIN28): not found
+[28-Mar-2015 22:07:51 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[28-Mar-2015 22:07:51 America/New_York] UberSmith::getPlanByCode(code=LIN87): not found
+[28-Mar-2015 22:07:51 America/New_York] UberSmith::getPlanByCode(code=LIN93): not found
+[28-Mar-2015 22:07:51 America/New_York] UberSmith::getPlanByCode(code=LIN23): not found
+[28-Mar-2015 22:07:51 America/New_York] UberSmith::getPlanByCode(code=LIN21): not found
+[28-Mar-2015 22:07:51 America/New_York] UberSmith::getPlanByCode(code=LIN8): not found
+[28-Mar-2015 22:07:51 America/New_York] UberSmith::getPlanByCode(code=LIN84): not found
+[28-Mar-2015 22:07:51 America/New_York] UberSmith::getPlanByCode(code=LIN25): not found
+[28-Mar-2015 22:07:51 America/New_York] UberSmith::getPlanByCode(code=LIN86): not found
+[28-Mar-2015 22:07:51 America/New_York] UberSmith::getPlanByCode(code=LIN90): not found
+[28-Mar-2015 22:07:51 America/New_York] UberSmith::getPlanByCode(code=LIN92): not found
+[28-Mar-2015 22:07:51 America/New_York] UberSmith::getPlanByCode(code=LIN97): not found
+[28-Mar-2015 22:07:51 America/New_York] UberSmith::getPlanByCode(code=LIN95): not found
+[29-Mar-2015 02:27:50 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[29-Mar-2015 02:27:50 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[29-Mar-2015 03:14:25 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[29-Mar-2015 03:14:25 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[29-Mar-2015 03:40:50 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[29-Mar-2015 03:40:50 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[29-Mar-2015 07:55:25 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[29-Mar-2015 07:55:25 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[29-Mar-2015 12:18:58 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[29-Mar-2015 12:18:58 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[29-Mar-2015 14:32:48 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[29-Mar-2015 14:32:48 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[29-Mar-2015 14:33:22 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[29-Mar-2015 14:33:22 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[29-Mar-2015 17:59:38 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[29-Mar-2015 17:59:38 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[29-Mar-2015 21:35:09 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[29-Mar-2015 21:35:09 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[29-Mar-2015 22:21:23 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[29-Mar-2015 22:21:23 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[30-Mar-2015 01:20:30 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[30-Mar-2015 01:20:30 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[30-Mar-2015 08:14:18 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[30-Mar-2015 08:14:18 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[30-Mar-2015 09:11:31 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[30-Mar-2015 09:11:31 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[30-Mar-2015 10:24:40 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[30-Mar-2015 10:24:40 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[30-Mar-2015 10:24:41 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[30-Mar-2015 10:24:41 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[30-Mar-2015 10:30:13 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[30-Mar-2015 10:30:13 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[30-Mar-2015 13:45:38 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[30-Mar-2015 13:45:38 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[30-Mar-2015 22:12:04 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[30-Mar-2015 22:12:04 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[31-Mar-2015 00:44:16 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[31-Mar-2015 00:44:16 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[31-Mar-2015 01:15:24 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[31-Mar-2015 01:15:24 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[31-Mar-2015 03:38:40 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[31-Mar-2015 03:38:40 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[31-Mar-2015 03:48:05 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[31-Mar-2015 03:48:05 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[31-Mar-2015 04:04:19 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[31-Mar-2015 04:04:19 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[31-Mar-2015 04:37:53 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[31-Mar-2015 04:37:53 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[31-Mar-2015 04:46:24 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[31-Mar-2015 04:46:24 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[31-Mar-2015 05:53:01 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[31-Mar-2015 05:53:01 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[31-Mar-2015 06:34:00 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[31-Mar-2015 06:34:00 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[31-Mar-2015 10:04:50 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[31-Mar-2015 10:04:50 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[31-Mar-2015 13:29:25 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[31-Mar-2015 13:29:25 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[31-Mar-2015 17:28:07 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[31-Mar-2015 17:28:07 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[31-Mar-2015 17:46:53 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[31-Mar-2015 17:46:53 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[31-Mar-2015 22:13:23 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[31-Mar-2015 22:13:23 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[01-Apr-2015 05:40:16 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[01-Apr-2015 05:40:16 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[01-Apr-2015 05:41:04 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[01-Apr-2015 05:41:04 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[01-Apr-2015 05:50:56 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[01-Apr-2015 05:50:56 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[01-Apr-2015 06:32:14 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[01-Apr-2015 06:32:14 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[01-Apr-2015 08:47:04 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[01-Apr-2015 08:47:04 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[01-Apr-2015 08:47:25 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[01-Apr-2015 08:47:25 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[01-Apr-2015 08:54:20 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[01-Apr-2015 08:54:20 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[01-Apr-2015 10:44:22 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[01-Apr-2015 10:44:22 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[01-Apr-2015 11:18:32 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[01-Apr-2015 11:18:32 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[01-Apr-2015 18:00:59 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[01-Apr-2015 18:00:59 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[01-Apr-2015 21:13:48 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[01-Apr-2015 21:13:48 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[02-Apr-2015 05:18:57 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[02-Apr-2015 05:18:57 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[02-Apr-2015 07:09:15 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[02-Apr-2015 07:09:15 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[02-Apr-2015 07:25:27 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[02-Apr-2015 07:25:27 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[02-Apr-2015 08:03:32 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[02-Apr-2015 08:03:32 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[02-Apr-2015 10:40:24 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[02-Apr-2015 10:40:24 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[02-Apr-2015 13:51:55 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[02-Apr-2015 13:51:55 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[03-Apr-2015 02:12:53 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[03-Apr-2015 02:12:53 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[03-Apr-2015 02:48:27 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[03-Apr-2015 02:48:27 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[03-Apr-2015 05:18:59 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[03-Apr-2015 05:18:59 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[03-Apr-2015 06:48:14 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[03-Apr-2015 06:48:14 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[03-Apr-2015 09:27:54 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[03-Apr-2015 09:27:54 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[03-Apr-2015 09:44:26 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[03-Apr-2015 09:44:26 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[03-Apr-2015 11:05:50 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[03-Apr-2015 11:05:50 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[03-Apr-2015 11:48:53 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[03-Apr-2015 11:48:53 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[03-Apr-2015 12:32:53 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[03-Apr-2015 12:32:53 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[03-Apr-2015 12:56:47 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[03-Apr-2015 12:56:47 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[03-Apr-2015 13:03:49 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[03-Apr-2015 13:03:49 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[03-Apr-2015 14:32:44 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[03-Apr-2015 14:32:44 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[03-Apr-2015 16:58:20 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[03-Apr-2015 16:58:20 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[03-Apr-2015 21:29:22 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[03-Apr-2015 21:29:22 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[04-Apr-2015 02:15:55 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[04-Apr-2015 02:15:55 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[04-Apr-2015 02:15:55 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[04-Apr-2015 02:15:55 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[04-Apr-2015 02:16:10 America/New_York] Error calling method plan_info: 
+[04-Apr-2015 02:16:10 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/licensec/public_html/_include/classes/Ubersmith.class.php on line 93
+[04-Apr-2015 02:16:10 America/New_York] UberSmith::getPlanByCode(code=LIN0): not found
+[04-Apr-2015 02:16:10 America/New_York] UberSmith::getPlanByCode(code=LIN72): not found
+[04-Apr-2015 02:16:10 America/New_York] UberSmith::getPlanByCode(code=LIN5): not found
+[04-Apr-2015 02:16:10 America/New_York] UberSmith::getPlanByCode(code=LIN10): not found
+[04-Apr-2015 02:16:10 America/New_York] UberSmith::getPlanByCode(code=LIN9): not found
+[04-Apr-2015 02:16:10 America/New_York] UberSmith::getPlanByCode(code=LIN44): not found
+[04-Apr-2015 02:16:10 America/New_York] UberSmith::getPlanByCode(code=LIN48): not found
+[04-Apr-2015 02:16:10 America/New_York] UberSmith::getPlanByCode(code=LIN51): not found
+[04-Apr-2015 02:16:10 America/New_York] UberSmith::getPlanByCode(code=LIN11): not found
+[04-Apr-2015 02:16:10 America/New_York] UberSmith::getPlanByCode(code=LIN75): not found
+[04-Apr-2015 02:16:10 America/New_York] UberSmith::getPlanByCode(code=LIN46): not found
+[04-Apr-2015 02:16:10 America/New_York] UberSmith::getPlanByCode(code=LIN83): not found
+[04-Apr-2015 02:16:10 America/New_York] UberSmith::getPlanByCode(code=LIN82): not found
+[04-Apr-2015 02:16:10 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[04-Apr-2015 02:16:10 America/New_York] UberSmith::getPlanByCode(code=LIN20): not found
+[04-Apr-2015 02:16:10 America/New_York] UberSmith::getPlanByCode(code=LIN28): not found
+[04-Apr-2015 02:16:10 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[04-Apr-2015 02:16:10 America/New_York] UberSmith::getPlanByCode(code=LIN87): not found
+[04-Apr-2015 02:16:10 America/New_York] UberSmith::getPlanByCode(code=LIN93): not found
+[04-Apr-2015 02:16:10 America/New_York] UberSmith::getPlanByCode(code=LIN76): not found
+[04-Apr-2015 02:16:10 America/New_York] UberSmith::getPlanByCode(code=LIN23): not found
+[04-Apr-2015 02:16:10 America/New_York] UberSmith::getPlanByCode(code=LIN21): not found
+[04-Apr-2015 02:16:10 America/New_York] UberSmith::getPlanByCode(code=LIN8): not found
+[04-Apr-2015 02:16:10 America/New_York] UberSmith::getPlanByCode(code=LIN84): not found
+[04-Apr-2015 02:16:10 America/New_York] UberSmith::getPlanByCode(code=LIN25): not found
+[04-Apr-2015 02:16:10 America/New_York] UberSmith::getPlanByCode(code=LIN86): not found
+[04-Apr-2015 02:16:10 America/New_York] UberSmith::getPlanByCode(code=LIN90): not found
+[04-Apr-2015 02:16:10 America/New_York] UberSmith::getPlanByCode(code=LIN92): not found
+[04-Apr-2015 02:16:10 America/New_York] UberSmith::getPlanByCode(code=LIN97): not found
+[04-Apr-2015 02:16:10 America/New_York] UberSmith::getPlanByCode(code=LIN95): not found
+[04-Apr-2015 02:55:32 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[04-Apr-2015 02:55:32 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[04-Apr-2015 03:37:40 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[04-Apr-2015 03:37:40 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[04-Apr-2015 07:13:40 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[04-Apr-2015 07:13:40 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[04-Apr-2015 11:49:12 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[04-Apr-2015 11:49:12 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[04-Apr-2015 12:10:56 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[04-Apr-2015 12:10:56 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[04-Apr-2015 13:00:35 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[04-Apr-2015 13:00:35 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[04-Apr-2015 16:50:47 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[04-Apr-2015 16:50:47 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[04-Apr-2015 20:17:45 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[04-Apr-2015 20:17:45 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[04-Apr-2015 23:43:55 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[04-Apr-2015 23:43:55 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[04-Apr-2015 23:55:33 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[04-Apr-2015 23:55:33 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[05-Apr-2015 03:40:33 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[05-Apr-2015 03:40:33 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[05-Apr-2015 05:54:51 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[05-Apr-2015 05:54:51 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[05-Apr-2015 07:21:52 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[05-Apr-2015 07:21:52 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[05-Apr-2015 10:03:49 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[05-Apr-2015 10:03:49 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[05-Apr-2015 13:04:42 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[05-Apr-2015 13:04:42 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[05-Apr-2015 13:44:49 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[05-Apr-2015 13:44:49 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[05-Apr-2015 13:46:44 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[05-Apr-2015 13:46:44 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[05-Apr-2015 17:46:34 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[05-Apr-2015 17:46:34 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[05-Apr-2015 17:46:46 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[05-Apr-2015 17:46:46 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[06-Apr-2015 05:26:41 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[06-Apr-2015 05:26:41 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[06-Apr-2015 06:09:41 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[06-Apr-2015 06:09:41 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[06-Apr-2015 09:44:20 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[06-Apr-2015 09:44:20 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[06-Apr-2015 12:45:24 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[06-Apr-2015 12:45:24 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[06-Apr-2015 17:22:33 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[06-Apr-2015 17:22:33 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[06-Apr-2015 21:50:39 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[06-Apr-2015 21:50:39 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[06-Apr-2015 23:57:45 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[06-Apr-2015 23:57:45 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[06-Apr-2015 23:57:45 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[06-Apr-2015 23:57:45 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[07-Apr-2015 02:05:44 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[07-Apr-2015 02:05:44 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[07-Apr-2015 03:08:12 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[07-Apr-2015 03:08:12 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[07-Apr-2015 04:09:40 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[07-Apr-2015 04:09:40 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[07-Apr-2015 04:09:45 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[07-Apr-2015 04:09:45 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[07-Apr-2015 04:24:05 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[07-Apr-2015 04:24:05 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[07-Apr-2015 04:24:37 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[07-Apr-2015 04:24:37 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[07-Apr-2015 04:25:04 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[07-Apr-2015 04:25:04 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[07-Apr-2015 04:25:27 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[07-Apr-2015 04:25:27 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[07-Apr-2015 05:03:00 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[07-Apr-2015 05:03:00 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[07-Apr-2015 06:04:38 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[07-Apr-2015 06:04:38 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[07-Apr-2015 07:51:08 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[07-Apr-2015 07:51:08 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[07-Apr-2015 09:22:39 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[07-Apr-2015 09:22:39 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[07-Apr-2015 11:28:14 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[07-Apr-2015 11:28:14 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[07-Apr-2015 13:12:42 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[07-Apr-2015 13:12:42 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[07-Apr-2015 13:46:02 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[07-Apr-2015 13:46:02 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[07-Apr-2015 15:53:08 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[07-Apr-2015 15:53:08 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[07-Apr-2015 17:31:57 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[07-Apr-2015 17:31:57 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[07-Apr-2015 18:05:20 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[07-Apr-2015 18:05:20 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[07-Apr-2015 20:54:46 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[07-Apr-2015 20:54:46 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[08-Apr-2015 00:41:04 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[08-Apr-2015 00:41:04 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[08-Apr-2015 01:03:12 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[08-Apr-2015 01:03:12 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[08-Apr-2015 03:49:25 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[08-Apr-2015 03:49:25 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[08-Apr-2015 07:09:00 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[08-Apr-2015 07:09:00 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[08-Apr-2015 08:43:58 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[08-Apr-2015 08:43:58 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[08-Apr-2015 11:46:30 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[08-Apr-2015 11:46:30 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[08-Apr-2015 11:50:12 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[08-Apr-2015 11:50:12 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[08-Apr-2015 15:39:45 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[08-Apr-2015 15:39:45 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[08-Apr-2015 16:30:02 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[08-Apr-2015 16:30:02 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[09-Apr-2015 02:07:16 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[09-Apr-2015 02:07:16 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[09-Apr-2015 02:10:23 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[09-Apr-2015 02:10:23 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[09-Apr-2015 02:10:58 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[09-Apr-2015 02:10:58 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[09-Apr-2015 02:27:42 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[09-Apr-2015 02:27:42 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[09-Apr-2015 04:06:35 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[09-Apr-2015 04:06:35 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[09-Apr-2015 07:56:04 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[09-Apr-2015 07:56:04 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[09-Apr-2015 14:12:30 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[09-Apr-2015 14:12:30 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[09-Apr-2015 14:57:39 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[09-Apr-2015 14:57:39 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[09-Apr-2015 16:29:01 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[09-Apr-2015 16:29:01 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[09-Apr-2015 17:16:47 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[09-Apr-2015 17:16:47 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[09-Apr-2015 21:09:39 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[09-Apr-2015 21:09:39 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[09-Apr-2015 22:53:07 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[09-Apr-2015 22:53:07 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[10-Apr-2015 00:21:19 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[10-Apr-2015 00:21:19 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[10-Apr-2015 04:15:50 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[10-Apr-2015 04:15:50 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[10-Apr-2015 05:05:52 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[10-Apr-2015 05:05:52 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[10-Apr-2015 08:43:16 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[10-Apr-2015 08:43:16 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[10-Apr-2015 13:18:25 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[10-Apr-2015 13:18:25 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[10-Apr-2015 13:20:46 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[10-Apr-2015 13:20:46 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[10-Apr-2015 15:20:30 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[10-Apr-2015 15:20:30 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[10-Apr-2015 15:21:16 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[10-Apr-2015 15:21:16 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[10-Apr-2015 16:38:11 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[10-Apr-2015 16:38:11 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[10-Apr-2015 18:00:59 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[10-Apr-2015 18:00:59 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[10-Apr-2015 18:01:01 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[10-Apr-2015 18:01:01 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[10-Apr-2015 18:02:21 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[10-Apr-2015 18:02:21 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[10-Apr-2015 18:05:36 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[10-Apr-2015 18:05:36 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[10-Apr-2015 20:55:01 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[10-Apr-2015 20:55:01 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[11-Apr-2015 01:58:44 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[11-Apr-2015 01:58:44 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[11-Apr-2015 02:13:53 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[11-Apr-2015 02:13:53 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[11-Apr-2015 02:51:56 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[11-Apr-2015 02:51:56 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[11-Apr-2015 03:03:42 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[11-Apr-2015 03:03:42 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[11-Apr-2015 04:28:37 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[11-Apr-2015 04:28:37 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[11-Apr-2015 05:33:48 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[11-Apr-2015 05:33:48 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[11-Apr-2015 05:38:52 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[11-Apr-2015 05:38:52 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[11-Apr-2015 07:54:34 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[11-Apr-2015 07:54:34 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[11-Apr-2015 10:58:07 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[11-Apr-2015 10:58:07 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[11-Apr-2015 13:22:11 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[11-Apr-2015 13:22:11 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[11-Apr-2015 13:23:25 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[11-Apr-2015 13:23:25 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[11-Apr-2015 13:49:01 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[11-Apr-2015 13:49:01 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[11-Apr-2015 14:01:13 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[11-Apr-2015 14:01:13 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[11-Apr-2015 14:09:55 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[11-Apr-2015 14:09:55 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[11-Apr-2015 14:36:24 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[11-Apr-2015 14:36:24 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[11-Apr-2015 19:42:32 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[11-Apr-2015 19:42:32 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[11-Apr-2015 20:49:01 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[11-Apr-2015 20:49:01 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[11-Apr-2015 23:48:59 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[11-Apr-2015 23:48:59 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[12-Apr-2015 00:31:01 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[12-Apr-2015 00:31:02 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[12-Apr-2015 03:31:06 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[12-Apr-2015 03:31:06 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[12-Apr-2015 06:05:29 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[12-Apr-2015 06:05:29 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[12-Apr-2015 09:49:25 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[12-Apr-2015 09:49:25 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[12-Apr-2015 09:49:25 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[12-Apr-2015 09:49:25 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[12-Apr-2015 10:02:39 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[12-Apr-2015 10:02:39 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[12-Apr-2015 10:02:40 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[12-Apr-2015 10:02:40 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[12-Apr-2015 13:14:29 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[12-Apr-2015 13:14:29 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[12-Apr-2015 13:51:48 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[12-Apr-2015 13:51:48 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[12-Apr-2015 14:06:51 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[12-Apr-2015 14:06:51 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[12-Apr-2015 16:00:03 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[12-Apr-2015 16:00:03 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[12-Apr-2015 16:04:09 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[12-Apr-2015 16:04:09 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[12-Apr-2015 17:09:40 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[12-Apr-2015 17:09:40 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[12-Apr-2015 21:25:09 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[12-Apr-2015 21:25:09 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[13-Apr-2015 06:17:11 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[13-Apr-2015 06:17:11 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[13-Apr-2015 15:17:27 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[13-Apr-2015 15:17:27 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[13-Apr-2015 15:17:30 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[13-Apr-2015 15:17:30 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[13-Apr-2015 19:32:18 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[13-Apr-2015 19:32:18 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[14-Apr-2015 02:20:01 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[14-Apr-2015 02:20:01 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[14-Apr-2015 02:45:35 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[14-Apr-2015 02:45:35 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[14-Apr-2015 02:54:26 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[14-Apr-2015 02:54:26 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[14-Apr-2015 03:16:03 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[14-Apr-2015 03:16:03 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[14-Apr-2015 05:20:01 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[14-Apr-2015 05:20:01 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[14-Apr-2015 06:19:52 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[14-Apr-2015 06:19:52 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[14-Apr-2015 06:20:43 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[14-Apr-2015 06:20:43 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[14-Apr-2015 07:30:56 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[14-Apr-2015 07:30:56 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[14-Apr-2015 08:35:07 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[14-Apr-2015 08:35:07 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[14-Apr-2015 08:41:31 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[14-Apr-2015 08:41:31 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[14-Apr-2015 09:00:29 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[14-Apr-2015 09:00:29 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[14-Apr-2015 09:10:18 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[14-Apr-2015 09:10:18 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[14-Apr-2015 09:10:59 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[14-Apr-2015 09:10:59 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[14-Apr-2015 09:11:23 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[14-Apr-2015 09:11:23 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[14-Apr-2015 09:11:26 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[14-Apr-2015 09:11:26 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[14-Apr-2015 09:32:50 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[14-Apr-2015 09:32:50 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[14-Apr-2015 11:37:40 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[14-Apr-2015 11:37:40 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[14-Apr-2015 13:37:38 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[14-Apr-2015 13:37:38 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[14-Apr-2015 15:31:02 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[14-Apr-2015 15:31:02 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[14-Apr-2015 15:45:05 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[14-Apr-2015 15:45:05 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[14-Apr-2015 15:50:14 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[14-Apr-2015 15:50:14 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[14-Apr-2015 15:52:32 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[14-Apr-2015 15:52:32 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[14-Apr-2015 15:53:36 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[14-Apr-2015 15:53:36 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[14-Apr-2015 15:53:40 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[14-Apr-2015 15:53:40 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[14-Apr-2015 15:55:48 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[14-Apr-2015 15:55:48 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[14-Apr-2015 15:57:38 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[14-Apr-2015 15:57:38 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[14-Apr-2015 16:01:19 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[14-Apr-2015 16:01:19 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[14-Apr-2015 16:01:19 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[14-Apr-2015 16:01:19 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[14-Apr-2015 16:05:01 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[14-Apr-2015 16:05:01 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[14-Apr-2015 16:38:18 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[14-Apr-2015 16:38:18 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[14-Apr-2015 21:27:05 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[14-Apr-2015 21:27:05 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[14-Apr-2015 22:20:12 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[14-Apr-2015 22:20:12 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[14-Apr-2015 22:22:47 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[14-Apr-2015 22:22:47 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[15-Apr-2015 04:26:54 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[15-Apr-2015 04:26:54 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[15-Apr-2015 04:43:23 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[15-Apr-2015 04:43:23 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[15-Apr-2015 05:26:19 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[15-Apr-2015 05:26:19 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[15-Apr-2015 07:26:18 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[15-Apr-2015 07:26:18 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found
+[15-Apr-2015 17:15:11 America/New_York] UberSmith::getPlanByCode(code=LIN26): not found
+[15-Apr-2015 17:15:11 America/New_York] UberSmith::getPlanByCode(code=LIN288): not found

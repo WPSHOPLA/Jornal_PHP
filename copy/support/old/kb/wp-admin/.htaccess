@@ -1,0 +1,8 @@
+# Deny access to /support/kb/wp-admin
+        order deny,allow
+        deny from all
+        allow from 184.95.52.43 # vpn2-us.myriadventuresgroup.com
+        allow from 184.95.52.42 # vpn
+        allow from 46.4.168.234 # vpn1-de.myriadventuresgroup.com
+        allow from 95.43.182.2  # Dimitar
+        allow from 190.50.222.211 # Augstin

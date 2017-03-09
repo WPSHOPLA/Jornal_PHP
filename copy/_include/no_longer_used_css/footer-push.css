@@ -1,0 +1,18 @@
+//.lc-footer, .push { height: 222px; }
+.lc-footer, .push { width:100%; bottom:0; float:left;}
+.lc-footer { background-image: url(../gui/bg-footer.gif); background-repeat: repeat-x; background-position: top left; color:#ffffff; }
+.lc-footer-holder {width:944px; margin-left:auto; margin-right:auto; padding:20px 10px 30px 10px; background-image: url(../gui/bg-footer.jpg); background-repeat: no-repeat; background-position: top; }
+.lc-footer h2 { margin: 0px; padding-bottom:8px; border-bottom:1px solid #5a5c77; font-family: Arial, Helvetica, sans-serif; font-weight:normal; font-size:17px; line-height:17px; color:#ffffff; }
+.lc-footer ul { margin:0px; padding:6px 0px 0px 0px; list-style:none }
+.lc-footer li { margin:0px; padding:0px 0px 0px 0px; }
+.lc-footer p { margin:0px; padding:6px 0px 8px 0px; }
+.lc-footer a:link { color:#b1b5d7; text-decoration:none }
+.lc-footer a:visited { color:#b1b5d7; text-decoration:none }
+.lc-footer a:active { color:#b1b5d7; text-decoration:none }
+.lc-footer a:hover { color:#b1b5d7; text-decoration:underline }
+.lc-footer-one { float:left; width:210px; padding-right:26px }
+.lc-footer-two { float:left; width:210px; padding-right:26px }
+.lc-footer-three { float:left; width:210px; padding-right:26px }
+.lc-footer-four { float:left; width:235px; }
+.lc-footer-logo { float:right; padding:0px 0px 0px 0px; }
+.lc-footer-social-icon { padding:0px 8px 0px 0px; }

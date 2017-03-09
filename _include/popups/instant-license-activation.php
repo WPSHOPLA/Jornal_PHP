@@ -1,0 +1,49 @@
+<?php include_once("../modules/config.php"); ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title><?=$site_name?></title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="<?=$keywords?>" />
+	<meta name="description" content="<?=$description?>" />
+	<meta name="author" content="<?=$author?>" />
+	<meta name="copyright" content="<?=$copyright?>" />
+	<link href="<?=$img_dir?>/favicon.ico" rel="shortcut icon" />
+	<?php $css=""; include_once("../modules/css.php"); ?>
+	<?php $java=""; include_once("../modules/java.php"); ?>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$(".password").colorbox({iframe:true, innerWidth:640, innerHeight:385});
+		});
+	</script>
+</head>
+<body>
+<div class="lc-popup">
+
+	<div class="lc-box-header">
+		<div class="lc-float-left"><h2><?=_('Automated License Activations');?></h2></div>
+		<div class="lc-clear"><!-- --></div>
+	</div>
+	<div class="lc-box">
+
+		<div id="form" class="lc-form">
+			
+            
+
+				<p><?=_('We understand that waiting around for a license to be activated isn\'t really what anyone want\'s to do. Thus, we\'ve made our licensing standards extremely simple; every license that we offer is automatically activated, unless otherwise stated.');?></p>
+                
+                <p><?=_('Please note, that if any additional information is required from the customer and not provided in a timely manner may delay licensing. Customer service is available 24x7 by calling (855) 465-4236');?></p>
+            
+            
+		</div>
+
+	</div>
+    
+    
+    
+    
+
+</div>
+<script type="text/javascript">Cufon.now();</script>
+</body>
+</html>

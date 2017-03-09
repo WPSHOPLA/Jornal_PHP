@@ -1,0 +1,124 @@
+<?php
+
+
+
+require_once dirname(__FILE__) . '/LiveChat/LiveChat_API.php';
+
+//echo "ses";
+//var_dump(new LiveChat_API());
+try {
+
+
+
+	$LiveChat_API = new LiveChat_API();
+
+
+
+	if ($LiveChat_API->status->get() == 'online') {
+
+		show_chat_badge();
+
+		contact_switch_livechat_on();
+
+	} else {
+
+		contact_switch_livechat_off();
+
+	}
+
+
+
+} catch (Exception $e) {
+
+
+
+	error_log("ERROR getting LiveChat status (" . $e->getCode() . '): ' . $e->getMessage());
+
+}
+
+
+
+function show_chat_badge() { global $img_dir;
+
+	?>
+
+<div>
+
+	
+
+		<div id="licensecube_sitebadgecontainer" title="" onclick="javascript: startChat_de2zfjoc('0');" style="background: transparent none repeat scroll 0 0; bottom: 0; cursor:pointer; height: 101px; left: 0; line-height: normal; margin: 0; padding: 0; position: fixed; top: 35% !important; z-index: 4000000000 !important;">
+
+			<div id="licensecube_sitebadgeholder">
+
+				<div id="licensecube_sitebadgeindicator" style="background: transparent url(<?php echo $img_dir?>/icon_badge_green.png) no-repeat scroll 0 0; width: 30px; height: 30px; line-height: normal; margin: 0; padding: 0; position: absolute; left: 10px; top: -8px; z-index: 20000;"></div>
+
+				<div id="licensecube_sitebadgebg" style="background-color: #a2a4ac; border-color: #bec0c5 #717378 #717378 #717378 !important; background-image: url(<?php echo $img_dir?>/badge_livehelp_en_white-<?php echo getActualPage();?>.png); background-position: 1px 8px; background-repeat: no-repeat; -moz-border-radius: 0 1em 1em 0 !important; border-radius: 0 1em 1em 0 !important; -webkit-border-radius: 0 1em 1em 0 !important; border-style: outset outset outset none !important; border-width: 1px 1px 1px medium !important;  left: 0 !important; margin: 0 !important; opacity: 0.90 !important; padding: 0 !important; position: absolute !important; top: 0 !important; width: 30px !important; z-index: 19999 !important; <?php if(getActualPage()!='en') echo "height:135px;"; else echo "height: 101px !important;"?>"></div>
+
+			</div>
+
+	</div>
+
+	<script type="text/javascript">
+
+		$(document).ready(function() {
+
+			$('#licensecube_sitebadgecontainer').click(function() {
+
+				LC_API.open_chat_window();
+
+			});
+
+
+
+			$('#live-chat-link').click(function() {
+
+				LC_API.open_chat_window();
+
+			});
+
+		});
+
+	</script>
+
+</div>
+
+<?php }
+
+
+
+function contact_switch_livechat_on() { ?>
+
+<script type="text/javascript">
+
+$(document).ready(function() {
+
+	$('#life-chat-online').show();
+
+	$('#life-chat-offline').hide();
+
+});
+
+</script>
+
+<?php }
+
+
+
+function contact_switch_livechat_off() { ?>
+
+<script type="text/javascript">
+
+$(document).ready(function() {
+
+	$('#life-chat-online').hide();
+
+	$('#life-chat-offline').show();
+
+});
+
+</script>
+
+<?php }
+
+
+

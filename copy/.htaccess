@@ -1,0 +1,155 @@
+# THIS .HTACCESS FILE WAS DESIGNED TO ENSURE THAT WE DON'T MESS UP ANY SETTINGS. PLEASE DISCUSS WITH DENIS MOTOVA BEFORE YOU MAKE ANY CHANGES.
+
+# BASIC CONFIGURATION CHANGES
+
+	# Hide Indexes 
+	Options -Indexes
+
+	# Default Index Page Adjustment
+	DirectoryIndex index.php
+
+	# File Extension Fix
+	AddHandler server-parsed .html
+
+	# www. Domain Fix
+	RewriteEngine On
+	Options +FollowSymLinks
+	RewriteCond %{HTTP_HOST} ^(licensecube\.com)$ [NC]
+	RewriteRule ^(.*)$ http://www.%1/$1 [R=301,L]
+	
+	# Redirection from w. / ww. / wwww. variants
+	RewriteCond %{HTTP_HOST} ^w\.(licensecube\.com)$ [NC]
+	RewriteRule ^(.*)$ http://www.%1/$1 [R=301,L]
+
+	RewriteCond %{HTTP_HOST} ^ww\.(licensecube\.com)$ [NC]
+	RewriteRule ^(.*)$ http://www.%1/$1 [R=301,L]
+
+	RewriteCond %{HTTP_HOST} ^wwww\.(licensecube\.com)$ [NC]
+	RewriteRule ^(.*)$ http://www.%1/$1 [R=301,L]
+
+	# Appending ?vps / ?dedicated (in eng / span)
+	RewriteCond %{LA-F:REQUEST_FILENAME} !-f
+	RewriteCond %{LA-F:REQUEST_FILENAME}.php -f
+	RewriteRule (.*)	$1.php	[L]
+	RewriteRule ^(.*)/(vps|dedicated|dedicada)	$1.php?$2	[L]
+
+	RewriteCond %{QUERY_STRING}	!^$
+	RewriteCond %{QUERY_STRING}	!^vps$
+	RewriteCond %{QUERY_STRING}	!^dedicated$
+	RewriteCond %{QUERY_STRING}	!^dedicada$
+	RewriteRule ^(.*)	http://www.licensecube.com/$1?	[L]
+	
+	# Resolving recent update (05/29/2012) for /support/ instead of /support/kb
+    RewriteCond %{HTTP_HOST} ^licensecube.com$ [OR]
+    RewriteCond %{HTTP_HOST} ^www.licensecube.com$
+    RewriteRule ^support/kb(.*)$ "http\:\/\/www\.licensecube\.com\/support\/" [R=301,L]
+	
+    RewriteCond %{HTTP_HOST} ^es.licensecube.com$
+    RewriteRule ^(support|soporte)/kb(.*)$ "http\:\/\/es\.licensecube\.com\/soporte\/" [R=301,L]
+	
+	# (Dunno Section) -- No clue	
+	RewriteCond %{HTTP_HOST} ^www\.licensecube\.com$ [NC]
+	
+
+	# Error redirect pages
+	ErrorDocument 500 http://www.licensecube.com/404.php
+	ErrorDocument 400 http://www.licensecube.com/404.php
+	ErrorDocument 401 http://www.licensecube.com/404.php
+	ErrorDocument 404 http://www.licensecube.com/404.php
+	ErrorDocument 403 http://www.licensecube.com/404.php
+	
+	# Redirection of /easy-integration/
+	Redirect 301 /easy-integration/billing-system-license-modules.php http://www.licensecube.com/support/billing-system-license-modules.php
+	Redirect 301 /way2save/whmcs-license/index.php http://www.licensecube.com/billing-systems/whmcs-license.php
+	Redirect 301 /way2save/cpanel-license/index.php http://www.licensecube.com/control-panels/cpanel-license.php
+	Redirect 301 /way2save/plesk-license/index.php http://www.licensecube.com/control-panels/plesk-license.php
+	
+	# Redirection of /support/ resources
+	Redirect 301 /support/new_index-tabc2.php http://www.licensecube.com/support/
+	Redirect 301 /support/new_form.js http://www.licensecube.com/support/
+	Redirect 301 /support/index_old.php http://www.licensecube.com/support/
+	Redirect 301 /support/index-tabc4.php http://www.licensecube.com/support/
+	Redirect 301 /support/index-tabc3.php http://www.licensecube.com/support/
+	Redirect 301 /support/index-tabc2.php http://www.licensecube.com/support/
+	Redirect 301 /support/index-tabc2-.php http://www.licensecube.com/support/
+	
+# END OF BASIC CONFIGURATION CHANGES
+
+# ADVANCED CONIFURATION SETTINGS BELOW 
+
+	<IfModule mod_expires.c>
+	ExpiresActive On
+	#ExpiresDefault A86400
+	ExpiresByType image/x-icon A2592000
+	ExpiresByType application/x-javascript A900
+	ExpiresByType text/css A900
+	ExpiresByType image/gif A604800
+	ExpiresByType image/png A604800
+	ExpiresByType image/jpeg A604800
+	ExpiresByType text/plain A604800
+	ExpiresByType application/x-shockwave-flash A604800
+	ExpiresByType video/x-flv A604800
+	ExpiresByType application/pdf A604800
+	ExpiresByType text/html A900
+	</IfModule>
+
+	<FilesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|js|css|swf)$">
+	Header set Expires "Thu, 15 Apr 2011 20:00:00 GMT"
+	</FilesMatch>
+
+	# 3 Month
+	<FilesMatch "\.(flv|gif|jpg|jpeg|png|ico|swf)$">
+    Header set Cache-Control "max-age=7257600"
+	</FilesMatch>
+
+	# 1 Week
+	<FilesMatch "\.(js|css|pdf|txt)$">
+    Header set Cache-Control "max-age=3600"
+	</FilesMatch>
+
+	# 10 Minutes
+	<FilesMatch "\.(html|htm)$">
+    Header set Cache-Control "max-age=600"
+	</FilesMatch>
+
+	# NONE
+	<FilesMatch "\.(pl|php|cgi|spl)$">
+    Header unset Cache-Control
+    Header unset Expires
+    Header unset Last-Modified
+    FileETag None
+    Header unset Pragma
+	</FilesMatch>
+
+	# Landing pages
+	RewriteCond %{HTTP_HOST}	^(www\.)?licensecube\.com$
+	RewriteCond %{LA-F:REQUEST_FILENAME}	!-f
+	RewriteCond %{DOCUMENT_ROOT}/p/$1    -f
+	RewriteRule ^(.*)$	/p/$1	[L]
+
+	# Spanish landing pages => redirect to english
+	RewriteCond %{HTTP_HOST}	^es\.licensecube\.com$
+	RewriteCond %{LA-F:REQUEST_FILENAME}	!-f
+	RewriteCond %{DOCUMENT_ROOT}/p/$1    -f
+	RewriteRule ^(.*)$	http://www.licensecube.com/$1	[R=301]
+
+	RewriteCond %{HTTP_HOST} ^es\.licensecube\.com [NC]
+	RewriteRule robots.txt robots-es.txt [L]
+
+# END OF ADVANCED CONFIGURATION SETTINGS
+RewriteCond %{HTTP_HOST} ^licensecube\.us$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.licensecube\.us$
+RewriteRule ^/?$ "http\:\/\/www\.licensecube\.com\/" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^licensecube\.biz$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.licensecube\.biz$
+RewriteRule ^/?$ "http\:\/\/www\.licensecube\.com\/" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^licensecube\.net$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.licensecube\.net$
+RewriteRule ^/?$ "http\:\/\/www\.licensecube\.com\/" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^licensecube\.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.licensecube\.org$
+RewriteRule ^/?$ "http\:\/\/www\.licensecube\.com\/" [R=301,L]
+

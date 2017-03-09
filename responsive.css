@@ -1,0 +1,72 @@
+.lc-yr-discount {font-size: 16px; margin-top:-32px; font-weight: bold; float: right;}
+.call-go-li {float:left; margin-right:7px;}
+.lchome {padding-left:11px;}
+.lang100 {float:right;}
+.w625 {width:625px;}
+.homesl1 {margin:0 auto; width:964px; background:none;}
+
+@media only screen and (max-width: 682px){
+	table, thead, tbody, th, td, tr { display: block; }
+	table {table-layout:fixed; width:100%}
+	td {word-wrap: break-word;}
+	.lc-content-holder {width:100%;}
+	.lc-header-inner-holder {width:100%;}
+	.lc-header-inner {min-height:200px;}
+	.lc-content-right {padding:0px;}
+	.lc-yr-discount {width:100%; min-height:50px;  font-size: 16px; margin-top:5px; font-weight: bold; float: none;}
+	.lc-box {padding:0px; border:1px solid #ffffff;}
+	.lc-service-screen {width:100%;}
+	.lc-service-order {padding-left:50px;}
+	.lc-service-order .lc-float-right {float:left;}
+	.lc-feature-leftf, .lc-feature-rightf,.lc-feature-left, .lc-feature-right {width:100%; padding:10px 0; border:1px solid #ffffff;}
+	.lc-footer { clear:both; position:relative; }
+	.lc-footer-holder {width:100%; background-image:none; padding:0;}
+	.lc-footer-one, .lc-footer-two, .lc-footer-three, .lc-footer-four{ background-image:url('http://cdn.licensecube.com/_include/gui/bg-footer2.gif'); background-repeat: repeat; width:100%; padding:8px 8px 16px 8px; float:none;}
+	.lc-footer-social-icon {float:left;}
+	.lc-copyright {width:98%; border:0; margin:0; padding:8px;}
+	.lc-top-holder {width:100%;}
+	.call-go-li {float:none; margin-right:7px;}
+	.lc-top-logo, .lc-top-right  {float:none;}
+	.lc-menu {float:none;}
+	#menu li {float:none; text-align:left;}
+	.lc-top-holder ul {min-height:300px;}
+	.lchome {padding-left:0px;}
+	.mobno li .icon-litespeed_license {display:none;}
+	.mobno li .icon-kernelcare_license {display:none;}
+	.px200 {height:200px;}
+	.px300 {height:300px;}
+	.lc-contact-one, .lc-contact-two, .lc-contact-three {padding:5px 0; width:100%; border:1px solid white;}
+	#form td {text-align: left;}
+	.top-reason-back {width:90%; padding:0;}
+	.lc-home-box-one, .lc-home-box-two, .lc-home-box-three, .lc-home-box-four, .lc-home-side-box, .lc-home-side-box1 {width:100%; padding: 5px 0; border:0; margin:0;}
+	.w625 {width:100%;}
+	.homesl1 {width:100%;}
+}
+
+@media only screen and (min-width: 682px) and (max-width: 982px) {
+	table {table-layout:fixed; width:100%}
+	td{word-wrap: break-word;}
+	.lc-header-inner-holder {width:100%;}
+	.lc-header-inner {min-height:100px;}
+	.lc-content-holder {width:100%;}
+	.lc-yr-discount {width:100%; font-size: 16px; margin-top:5px; font-weight: bold; float: none;}
+	.lc-service-info {width:35%; padding-right:5px;}
+	.lc-feature-leftf {width:46%;}
+	.lc-service-screen {width:auto;}
+	.lc-footer { clear:both; position:relative; }
+	.lc-footer-holder {width:100%; background-image:none; padding:0;}
+	.lc-footer-one, .lc-footer-three, .lc-footer-two, .lc-footer-four{ background-image:url('http://cdn.licensecube.com/_include/gui/bg-footer2.gif'); background-repeat: repeat; width:47%; min-height:220px; padding:8px 8px 16px 8px; float:left;}
+	.lc-footer-social-icon {float:right;}
+	.lc-copyright {width:98%; border:0; margin:0; padding:8px;}
+	.lc-top-holder {width:100%;}
+	.lc-top-logo {width:35%;}
+	.lc-top-right {width:60%;}
+	.call-go-li {float:none; margin-right:7px;}
+	.lang100 {float:right; width:100px;}
+	.lc-contact-one, .lc-contact-three {padding:5px 0; width:28%; border:1px solid white;}
+	.lc-contact-two {padding:5px 0; width:37%; border:1px solid white;}
+	.w625 {width:68%;}
+	.homesl1 {width:100%;}
+}
+
+

@@ -1,0 +1,21 @@
+.jcarousel-skin .jcarousel-container{border:1px solid #dbdbdb;margin-bottom:10px;}
+.jcarousel-skin .jcarousel-direction-rtl{direction:rtl;}
+.jcarousel-skin .jcarousel-container-horizontal{width:675px;padding:0px 0px;}
+.jcarousel-skin .jcarousel-clip-horizontal{width:675px;height:176px;}
+.jcarousel-skin .jcarousel-item{width:134px;height:176px;text-align:center;border-right:1px solid #dbdbdb;}
+.jcarousel-skin .jcarousel-item .logo{background:url(../gui/bg-services-logo.gif) repeat-x top;padding-top:10px;}
+.jcarousel-skin .jcarousel-item .lc-service-title{border-bottom:1px solid #dbdbdb;}
+.jcarousel-skin .jcarousel-item-horizontal{margin-left:0;margin-right:0px;}
+.jcarousel-skin .jcarousel-direction-rtl .jcarousel-item-horizontal{margin-left:0px;margin-right:0;}
+.jcarousel-skin .jcarousel-item-vertical{margin-bottom:10px;}
+.jcarousel-skin .jcarousel-item-placeholder{background:#fff;color:#000;}
+.jcarousel-skin .jcarousel-next-horizontal{position:absolute;top:88px;right:-12px;width:21px;height:21px;cursor:pointer;background:transparent url(../gui/car-next.png) no-repeat 0 0;}
+.jcarousel-skin .jcarousel-direction-rtl .jcarousel-next-horizontal{left:5px;right:auto;background-image:url(../gui/car-prev.png);}
+.jcarousel-skin .jcarousel-next-horizontal:hover{}
+.jcarousel-skin .jcarousel-next-horizontal:active{}
+.jcarousel-skin .jcarousel-next-disabled-horizontal, .jcarousel-skin .jcarousel-next-disabled-horizontal:hover, .jcarousel-skin .jcarousel-next-disabled-horizontal:active{cursor:default;background-image:url(../gui/car-next-off.png);}
+.jcarousel-skin .jcarousel-prev-horizontal{position:absolute;top:88px;left:-12px;width:21px;height:21px;cursor:pointer;background:transparent url(../gui/car-prev.png) no-repeat 0 0;}
+.jcarousel-skin .jcarousel-direction-rtl .jcarousel-prev-horizontal{left:auto;right:5px;background-image:url(../gui/car-next.png);}
+.jcarousel-skin .jcarousel-prev-horizontal:hover{}
+.jcarousel-skin .jcarousel-prev-horizontal:active{}
+.jcarousel-skin .jcarousel-prev-disabled-horizontal, .jcarousel-skin .jcarousel-prev-disabled-horizontal:hover, .jcarousel-skin .jcarousel-prev-disabled-horizontal:active{cursor:default;background-image:url(../gui/car-prev-off.png);}

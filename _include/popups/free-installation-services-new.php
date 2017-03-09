@@ -1,0 +1,3 @@
+<p style="margin-top:0px"><?=_('We understand what it takes to get an online business going, and all the complexity involved. Thus, we\'re proud to provide all of our customers with a complimentary installation service that will install any of the licenses that have been purchased from us directly.');?></p>
+                
+                <p  style="margin-bottom:0px"><?=_('To request your complimentary installation service, please visit the');?> <a href="http://www.licensecube.com/support/kb" target="_blank"><?=_('LicenseCube Support Center');?></a><?=_('and click on the "Installation Request" tab.');?> </p>

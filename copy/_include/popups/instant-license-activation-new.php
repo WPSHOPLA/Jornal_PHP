@@ -1,0 +1,3 @@
+<p style="margin-top:0px"><?=_('We understand that waiting around for a license to be activated isn\'t really what anyone want\'s to do. Thus, we\'ve made our licensing standards extremely simple; every license that we offer is automatically activated, unless otherwise stated.');?></p>
+                
+                <p style="margin-bottom:0px"><?=_('Please note, that if any additional information is required from the customer and not provided in a timely manner may delay licensing. Customer service is available 24x7 by calling (855) 465-4236');?></p>

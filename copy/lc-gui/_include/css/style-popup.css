@@ -1,0 +1,28 @@
+/* ========================================================================== */
+/*  Defaults & Tool Styles  for Popups                                        */
+/* ========================================================================== */
+html {
+        min-width:auto !important;
+        width:auto !important;
+        height:auto !important;
+}
+body {
+        background:#ffffff !important;
+        margin: 0px;
+        padding: 0px;
+        font-size: 14px;
+        line-height: 19px;
+        color:#313131;
+        font-family: Arial, Helvetica, Sans-Serif;
+        min-width:400px;_width:400px;
+        width:auto !important;
+        height:auto !important;
+}
+
+
+
+
+
+
+
+

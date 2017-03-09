@@ -1,0 +1,74 @@
+<html>
+<script type="text/javascript">
+    var xdr;
+
+    function readdata()
+    {
+        var dRes = document.getElementById('dResponse');
+        dRes.innerText = xdr.responseText;
+        alert("Content-type: " + xdr.contentType);
+        alert("Length: " + xdr.responseText.length);
+    }
+    
+    function err()
+    {
+        alert("XDR onerror");
+    }
+    function timeo()
+    {
+        alert("XDR ontimeout");
+    }
+    function loadd()
+    {
+        alert("XDR onload");
+        alert("Got: " + xdr.responseText);
+    }
+    function progres()
+    {
+        alert("XDR onprogress");
+        alert("Got: " + xdr.responseText);
+    }
+
+    function stopdata()
+    {
+        xdr.abort();
+    }
+
+    function mytest()
+    {
+        var url = document.getElementById('tbURL');
+        var timeout = document.getElementById('tbTO');
+		
+       
+            xdr = new XDomainRequest();
+			alert(xdr);
+            if (xdr)
+            {
+                xdr.onerror = err;
+                xdr.ontimeout = timeo;
+                xdr.onprogress = progres;
+                xdr.onload = loadd;
+
+                xdr.timeout = tbTO.value;
+                xdr.open("get", tbURL.value);
+                xdr.send();
+				alert(xdr);
+            }
+            else
+            {
+                alert('Failed to create');
+            }
+       
+    }
+</script>
+<body>
+    <h2>XDomainRequest</h2>
+    <input type="text" id="tbURL" value="http://www.contoso.com/xdr.txt" style="width:300px"><br>
+    <input type="text" id="tbTO" value="10000"><br>
+    <input type="button" onclick="mytest()" value="Get">&nbsp;&nbsp;&nbsp;
+    <input type="button" onclick="stopdata()" value="Stop">&nbsp;&nbsp;&nbsp;
+    <input type="button" onclick="readdata()" value="Read">
+    <br>
+    <div id="dResponse"></div>
+</body>
+</html>

@@ -1,0 +1,8 @@
+
+/* tooltip styling. by default the element to be styled is .tooltip  */
+.tooltip {
+	background-image:url(../images/backgrounds/black_arrow.gif);
+}
+.tooltip.bottom {
+	background:url(../images/backgrounds/black_arrow_bottom.gif);
+}

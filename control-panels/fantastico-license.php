@@ -1,0 +1,147 @@
+<?php include_once("../_include/modules/config.php"); ?>
+<?php include_once("../_include/modules/general.php"); ?>
+<?php include_once("../_include/modules/ubersmith.php"); ?>
+<?php include_once("../_include/modules/pricing.php"); ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title><?=$controlp_fantas_title?></title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="<?=$controlp_fantas_keywords?>" />
+	<meta name="description" content="<?=$controlp_fantas_meta_description?>" />
+	<meta name="author" content="<?=$author?>" />
+	<meta name="copyright" content="<?=$copyright?>" />
+	<link href="<?=$img_dir?>/favicon.ico" rel="shortcut icon" />
+	<?php $css=""; include_once("../_include/modules/css.php"); ?>
+	<?php $java=""; include_once("../_include/modules/java.php"); ?>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<link href="http://www.licensecube.com/responsive.css" rel="stylesheet" type="text/css" />
+<!--   	<script src="<?=$site_dir?>/../_include/js/colorbox.js" type="text/javascript"></script> -->
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$(".youtube").colorbox({iframe:true, innerWidth:640, innerHeight:385});
+		});
+	</script>
+</head>
+<body>
+<div class="wrapper">
+<?php $menu="cp"; include_once("../_include/modules/header.php"); ?>
+<div class="lc-header-inner"><div class="lc-header-inner-holder">
+	<div class="header"><?php print ("$vps_fantastico_message"); ?></div>
+</div></div>
+<div class="lc-content"><div class="lc-content-holder">
+
+	<div class="lc-content-wrapper-inner">
+		<table width="100%" cellpadding="0" cellspacing="0">
+		<tr>
+			<td class="lc-content-left" valign="top">
+
+				<?php $left="cp"; $page="cp7"; include_once("../_include/modules/left.php"); ?>
+
+			</td>
+			<td class="lc-content-right" valign="top">
+				<?php if (!empty($global_plan->lc_license_comment_message)): ?>
+                			<div  id="message" class="lc-box-alert"><?php echo $global_plan->lc_license_comment_message; ?></div>
+				<?php endif; ?>
+				<h1>Fantastico</h1>
+                
+				<div class="lc-box">
+					<table width="100%" cellpadding="0" cellspacing="0">
+					<tr>
+						<td class="lc-service-info" valign="top">
+							<p><?=_('Fantastico F3 is the market leader when it comes to auto-installers for cPanel/WHM servers. Having over 10,000 installations, 
+Fantastico provides more than one million users with dozens of open-source scripts on a daily basis.');?></p>
+							<ul class="lc-list-check1">
+								<li><?=_('cPanel/WHM Ready');?></li>
+								<li><?=_('600+ Open-Source Scripts');?></li>
+								<li><?=_('10,000+ Installations');?></li>
+								<li><?=_('Step-by-Step Installation Guide');?></li>
+                                <li><?=_('Advanced Administrator Controls');?></li>
+							</ul>
+							<img src="<?=$img_dir?>/service-logo-fantastico.gif" alt="<?=_('Fantastico License Logo');?>" />
+						</td>
+						<td valign="top">
+							<div id="screen1" class="lc-service-screen"><img src="<?=$img_dir?>/fantastico-screen.jpg" width="320" height="223" alt="<?=_('Fantastico License Screenshot');?>" /></div>
+							<div class="lc-service-order">
+								<table width="100%" cellpadding="0" cellspacing="0">
+								<tr>
+									<td valign="top">
+										<?php if (empty($_SERVER['QUERY_STRING'])) { ?>
+										<div class="lc-service-price1-info"><?=_('Starting at');?></div>
+										<div class="lc-service-price1">$<?=price_fantastico_lowest()?><?=_('/mo');?></div>
+										<?php } else if (array_key_exists('vps', $_REQUEST)) { ?>
+										<div class="lc-service-price1">$<?=price_fantastico_vps_monthly()?><?=_('/mo');?></div>
+										<div class="lc-service-price1-info"><?=_('(VPS license)');?></div>
+										<?php } else if (array_key_exists(_('dedicated'), $_REQUEST)) { ?>
+										<div class="lc-service-price1">$<?=price_fantastico_dedicated_monthly()?><?=_('/mo');?></div>
+										<div class="lc-service-price1-info"><?=_('(Dedicated license)');?></div>
+										<?php } ?>
+									</td>
+									<td valign="top">
+										<?=order_link_button(_("Order a Fantastico License Now"));?>
+										<div class="lc-clear"><!-- --></div>
+									</td>
+								</tr>
+								</table>
+							</div>
+						</td>
+					</tr>
+					</table>
+					<div class="lc-bar">
+						<table width="100%" cellpadding="0" cellspacing="0">
+						<tr>
+							<td><h2><?=_('Automate your web hosting life with Fantastico license...');?></h2></td>
+							<td>
+                            <div class="lc-float-right"><a class="youtube" href="<?php print("$vps_fantast_video"); ?>" title="<?php print("$vps_fantast_video_title"); ?>"><img src="<?=$img_dir?>/buttons/view-in-action-<?=getActualPage()?>.png" width="127" height="29" alt="<?=_('Fantastico license interactive video');?>" /></a></div>
+							<!--<div class="lc-float-right" style="padding-right:7px"><a href="<?php print ("$vps_fantast_demo"); ?>" title="Fantastico Demo"><img src="<?=$img_dir?>/buttons/view-demo.png" width="110" height="29" alt="View the Fantastico License Demo" /></a></div>-->
+								<div class="lc-clear"><!-- --></div>
+							</td>
+						</tr>
+						</table>
+					</div>
+				</div>
+				<div class="lc-spacer"><!-- --></div>
+				<div class="lc-box">
+					<table width="100%" cellpadding="0" cellspacing="0">
+					<tr>
+						<td class="lc-feature-leftf" valign="top">
+							<img class="lc-float-right" src="<?=$img_dir?>/feature-icon3.gif" width="72" height="71" alt="<?=_('Fantastico License Advanced User Controls');?>" />
+							<h2><?=_('Advanced Controls');?></h2>
+							<p><?=_('If you are looking to provide extra services, Fantastico is a great addition. It allows an administrator to fully control what scripts their end users have access to. Additionally, with Fantastico license administrators can set language functionality based upon their location.');?></p>
+						</td>
+						<td class="lc-feature-rightf" valign="top">
+							<img class="lc-float-right" src="<?=$img_dir?>/feature-icon8.gif" width="72" height="71" alt="<?=_('Fantastico License Automated Upgrades');?>" />
+							<h2><?=_('Seamless Upgrades');?></h2>
+							<p><?=_('As soon as upgrades come out, Fantastico has them available for administrators to download. Fantastico upgrades can be automated, where backups and updates happen at the same time, allowing the administrator to be hassle free.');?></p>
+						</td>
+					</tr>
+					<tr>
+						<td class="lc-feature-spacer"><!-- --></td>
+						<td class="lc-feature-spacer"><!-- --></td>
+					</tr>
+					<tr>
+						<td class="lc-feature-left" valign="top">
+							<img class="lc-float-right" src="<?=$img_dir?>/feature-icon4.gif" width="72" height="71" alt="<?=_('Fantastico License Support');?>" />
+							<h2><?=_('Perfect Support');?></h2>
+							<p><?=_('Being able to obtain assistance with Fantastico when needed is a key part of the decision making process. Fantastico has a wide variety of support resources available for its users from its community forum to their email based ticketing system.');?></p>
+						</td>
+						<td class="lc-feature-right" valign="top">
+							<img class="lc-float-right" src="<?=$img_dir?>/feature-icon5.gif" width="72" height="71" alt="<?=_('Fantastico License Installation');?>" />
+							<h2><?=_('Streamlined Install');?></h2>
+							<p><?=_('Installing Fantastico license within your cPanel/WHM couldn\'t be simpler. Just upload the installer via shell, and follow the online process via the WHM\'s easy-to-use interface, and hey, presto, Fantastico is all installed!');?></p>
+						</td>
+					</tr>
+					</table>
+				</div>
+
+			</td>
+		</tr>
+		</table>
+	</div>
+
+</div></div>
+<?php include_once("../_include/modules/footer.php"); ?>
+<?php include_once("../_include/modules/additional.php"); ?>
+</div>
+</body>
+</html>
